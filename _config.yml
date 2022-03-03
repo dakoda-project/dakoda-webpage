@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Lab # the website title (if blank, full name will be used instead)
 first_name: You
 middle_name: R.
 last_name: Name
@@ -109,6 +109,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  members:
+     output: true
+     permalink: /members/:path
 
 news_limit: 5
 
