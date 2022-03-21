@@ -1,14 +1,10 @@
 "Zesch":
   - firstname: ["Torsten", "T.", "Torsten Zesch"]
     url: /website/members/zesch
-
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+    
+"Laarmann-Quante":
+  - firstname: ["Ronja", "R.", "Ronja Laarmann-Quante", "Ronja Maria"]
+    url: /website/members/laarmann-quante
 
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
