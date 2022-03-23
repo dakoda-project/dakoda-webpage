@@ -74,7 +74,11 @@ layout: default
     {% if page.publications %}
       <h2 id="publications">Publications</h2>
       <div class="publications">
-        {% bibliography -f papers -q @*[{{page.publications}}]* %}
+        {%- for y in page.years %}
+          <h2 class="year">{{y}}</h2>
+          {% bibliography -f papers -q @*[year={{y}} && {{page.publications}}]* %}
+          {% bibliography -f otherpublications -q @*[year={{y}} && {{page.publications}}]* %}
+        {% endfor %}
       </div>
     {% endif %}
   </article>
