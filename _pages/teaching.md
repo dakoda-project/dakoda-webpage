@@ -6,4 +6,4 @@ description:
 nav: true
 ---
 
-What we have to say about teaching
+Coming soon.

@@ -13,7 +13,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Welcome to the Language Technology Lab!
@@ -46,6 +46,3 @@ NLP Engineering
 * Large-scale semantic processing
 
 We are committed to reproducible and replicable research. We generally make all research software publicly available. 
-
-<br/>
-<br/>
