@@ -8,16 +8,16 @@ title: Prof. Dr.-Ing. Torsten Zesch
 description: Profile of Prof. Dr.-Ing. Torsten Zesch.
 lastname: Zesch
 publications: 'author^=*Zesch'
-years: [2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001]
+years: [2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006]
 
 teaser: >
-    This is the teaser
+    More information coming soon
 
 profile:
     name: Prof. Dr.-Ing. Torsten Zesch
     position: Head of Chair
     align: right
-    image: zesch.jpg
+    image: zesch.png
     email: torsten.zesch@fernuni-hagen.de
     twitter: TorstenZesch
     github: zesch
@@ -27,4 +27,4 @@ profile:
         58097 Hagen
 ---
 
-I am ...
+More information coming soon

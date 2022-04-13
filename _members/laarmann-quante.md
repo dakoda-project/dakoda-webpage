@@ -12,7 +12,7 @@ publications: 'author^=*Laarmann-Quante'
 years: [2021,2019,2017,2016,2015,2014]
 
 teaser: >
-    This is the teaser
+    More information coming soon
 
 profile:
     name: Dr. Ronja Laarmann-Quante
@@ -20,13 +20,13 @@ profile:
     position: Postdoctoral Researcher
     image: laarmann-quante.png
     role: Postdoc
-    email: TBD
+    email: ronja.laarmann-quante@fernuni-hagen.de
     github: rlaarmqua
     orcid: 0000-0002-4800-6212
     address: >
-        TBD
+        Address coming soon
 ---
 
-Description TBD
+More information coming soon
 
 
