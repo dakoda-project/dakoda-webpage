@@ -29,7 +29,7 @@ profile:
     github: mariebexte
     orcid: 0000-0002-7329-2548
     address: >
-        Universitätsstraße 27 – PRG / Building 5, Room B 107, 58097 Hagen
+        Universitätsstraße 27 – PRG / Building 5, Room A 107, 58097 Hagen
 ---
 
 As a research assistant in computational linguistics, I focus on the automated evaluation of image-based tasks.
