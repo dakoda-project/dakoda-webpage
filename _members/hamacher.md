@@ -26,19 +26,19 @@ profile:
         Universitätsstraße 27 – PRG / Gebäude 5, Raum B117 / 1. OG, 58097 Hagen
 ---
 
-Als Forscher im Bereich Natural Language Processing (NLP) untersuche ich, wie man NLP Modelle zukunftssicher machen kann, sodass sie mit dynamischen sprachlichen Kontexten umgehen können.
+As a researcher in Natural Language Processing (NLP), I am trying to future-proof NLP systems and make them robust against dynamically changing language.
 
-#### Forschungsinteressen
+#### Research Interests
 - Diachronic Language Modelling
 - Model Robustness
 - Explainable AI
 
-#### Kurzvita
-- Wissenschaftlicher Mitarbeiter an der Forschungsprofessur Computerlinguistik an der FernUni Hagen (seit 2022)
-- Wissenschaftlicher Mitarbeiter am Language Technology Lab an der Universität Duisburg-Essen (2020-2022)
-- Wissenschaftlicher Mitarbeit im Projekt KISTRA (seit 2020)
-- Studium Angewandte Kognitions- und Medienwissenschaft (M.Sc) an der Universität Duisburg-Essen (2017-2020)
-- Wissenschaftliche Hilfskraft am Language Technology Lab an der Universität Duisburg-Essen (2017-2020)
-- Studium Angewandte Kognitions- und Medienwissenschaft (B.Sc) an der Universität Duisburg-Essen (2013-2017)
+#### Short Vita
+- Researcher at the Research Group for Computational Linguistics at the FernUni Hagen (seit 2022)
+- Researcher at the Language Technology Lab at the University of Duisburg-Essen (2020-2022)
+- Researcher for Project KISTRA (since 2020)
+- Study of Applied Cognitive and Media Science (B.Sc) at the University of Duisburg-Essen (2017-2020)
+- Research Assistant at the Language Technology Lab at the University of Duisburg-Essen (2017-2020)
+- Study of Applied Cognitive and Media Science (B.Sc) at the University of Duisburg-Essen (2013-2017)
 
 
