@@ -27,22 +27,23 @@ profile:
         Universitätsstraße 27 – PRG / Gebäude 5, Raum B 118 (1. Etage), 58097 Hagen
 ---
 
-Als Computerlinguistin arbeite ich daran, Texte von Lernenden automatisch zu analysieren und zu bewerten. Mein Ziel ist es, auf Basis von Sprachtechnologie und künstlicher Intelligenz Anwendungen zu erstellen, die Lern- und Bewertungsprozesse unterstützen.
+As a computational linguist, I work on automatically analyzing and evaluating texts from learners. My goal is to create applications based on language technology and artificial intelligence that support learning and assessment processes. 
 
-#### Forschungsinteressen
+Texts written by learners often differ greatly from supposedly "perfect" newspaper language; for example, they contain orthographic and grammatical errors. From a computational linguistics perspective, this is both a challenge and an opportunity. My goal is to gain insights into learning processes by automatically analyzing such texts and to develop applications to support learners and teachers in practice.
 
-- Wie können Texte von Lernenden robust maschinell verarbeitet werden?
-- Welche Rolle spielen z. B. Rechtschreibfehler bei der Bewertung von Antworten?
-- Welche Erkenntnisse können wir aus der computerlinguistischen Analyse von Lernertexten über Lernprozesse, z. B. beim (Schrift-) Spracherwerb gewinnen?
-- Wie können Lernende und Lehrende durch sprachtechnologische Anwendungen unterstützt werden?
+#### Research Interests
 
-#### Kurzvita
+- How can learner texts be processed robustly by the computer?
+- What role do, e.g., spelling errors play in the evaluation of answers?
+- What insights can we gain from the computational linguistic analysis of texts about learning processes, e.g., in (written) language acquisition?
+- How can learners and teachers be supported by language technology applications?
 
-- Wissenschaftliche Mitarbeiterin der Professur Computerlinguistik im Forschungsschwerpunkt „Digitalisierung, Diversität und Lebenslanges Lernen. Konsequenzen für die Hochschulbildung“ (D²L²) der FernUniversität in Hagen seit April 2022
-- Promotion im Fach Computerlinguistik an der Ruhr-Universität Bochum (2020)
-- Wissenschaftliche Mitarbeiterin am Lehrstuhl für Sprachtechnologie an der Universität Duisburg-Essen (2019-2022)
-- Wissenschaftliche Mitarbeiterin im interdisziplinären Forschungsprojekt "Literacy as the key to social participation: Psycholinguistic perspectives on orthography instruction and literacy acquisition" am Sprachwissenschaftlichen Institut der Ruhr-Universität Bochum (2015-2019)
-- Master of Arts in Linguistik (Schwerpunkt Computerlinguistik) an der Ruhr-Universität Bochum (2015)
-- Bachelor of Arts in Anglistik/Amerikanistik und Linguistik (Schwerpunkt Computerlinguistik) an der Ruhr-Universität Bochum (2013)
+#### Short CV
 
+- Research Assistant at the professorship Computational Linguistics in the Research Cluster „Digitalization, Diversity and Lifelong Learning – Consequences for Higher Education“ (D²L²) at the FernUniversität in Hagen since April 2022
+- PhD in Computational Linguistics at the Ruhr-Universität Bochum (2020)
+- Research Assistant at the Language Technology Lab at the Universität Duisburg-Essen (2019-2022)
+- Research Assistant in the interdisciplinary research project "Literacy as the key to social participation: Psycholinguistic perspectives on orthography instruction and literacy acquisition" at the Department of Linguistics at the Ruhr-Universität Bochum
+- Master of Arts in Linguistics (focus Computational Linguistics) at the Ruhr-Universität Bochum (2015)
+- Bachelor of Arts in English Studies and Linguistics (focus Computational Linguistics) at the Ruhr-Universität Bochum (2013)
 
