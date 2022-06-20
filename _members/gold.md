@@ -18,7 +18,7 @@ profile:
     name: Christian Gold
     align: right
     position: PhD Candidate
-    image: gold.jpg
+    image: gold.png
     role: PhD Candidate
     email: christian.gold@fernuni-hagen.de
     address: >
