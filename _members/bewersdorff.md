@@ -32,7 +32,7 @@ As a researcher in the field of Natural Language Processing, I am working on the
 
 #### CV
 
-- research assistant at Language Technology Lab at University Duisburg-Essen (since November 2021)
+- Research assistant at Language Technology Lab at University Duisburg-Essen (since November 2021)
 - PhD student in DFG RTG WisPerMed (since November 2021)
 - M.Sc. in Applied Computer Science, University Duisburg-Essen (October 2021)
 - B.Sc. in Applied Computer Science, University Duisburg-Essen (April 2018)
