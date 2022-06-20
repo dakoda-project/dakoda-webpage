@@ -18,7 +18,7 @@ profile:
     name: Jeanette Bewersdorff
     align: right
     position: PhD Candidate
-    image: bewersdorff.png
+    image: Bild_JB.jpg
     role: PhD Candidate
     email: jeanette.bewersdorff@fernuni-hagen.de
     github: JeaBew
