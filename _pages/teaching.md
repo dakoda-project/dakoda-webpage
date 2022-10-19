@@ -6,4 +6,4 @@ description:
 nav: true
 ---
 
-Coming soon.
+If you are interested in writing your Bachelor or Master thesis with us, please fill in [this form](/assets/pdf/thesis_topic_questionnaire_FUH.pdf) and send it to Prof. Torsten Zesch.
