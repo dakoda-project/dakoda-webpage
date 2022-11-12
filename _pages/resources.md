@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Resources
 permalink: /projects/
-description: Our current and past projects. More coming soon.
+description: Our resources. More coming soon.
 nav: true
 display_categories: [current projects, past projects]
 horizontal: false

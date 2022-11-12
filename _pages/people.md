@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /team
-title: Team
-description: Members and close collaborators of the group.
+title: People
+description: Members of the DAKODA project.
 nav: true
 nav_rank: 2
 ---

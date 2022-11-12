@@ -14,7 +14,7 @@ teaser: >
     More information coming soon
 
 profile:
-    name: Prof. Dr.-Ing. Torsten Zesch
+    name: (example_head) Prof. Dr.-Ing. Torsten Zesch
     position: Head of Chair
     align: right
     image: zesch.png

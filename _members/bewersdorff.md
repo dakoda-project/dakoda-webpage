@@ -15,7 +15,7 @@ teaser: >
     Computer Scientist & NLP Researcher
 
 profile:
-    name: Jeanette Bewersdorff
+    name: (example_member) Jeanette Bewersdorff
     align: right
     position: PhD Candidate
     image: Bild_JB.jpg
