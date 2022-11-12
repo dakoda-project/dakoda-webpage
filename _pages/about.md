@@ -16,33 +16,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to the Language Technology Lab!
+Welcome to the DAKODA project page!
 
 
-We conduct research in the field of language technology and natural language processing.
-We are especially interested in analyzing and processing non-standard, error-prone language as found in social media and learner language.
-Consequently, our research can be divided into three main areas:
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet:
 
-Educational NLP
+Lorem ipsum
 
-* Short answer scoring
-* Essay scoring
-* Vocabulary acquisition
-* Spelling and grammar correction
-* Exercise generation
-* Exercise difficulty prediction
+* dolor sit amet
+* onsetetur sadipscing elitr
+* sed diam voluptua
+* At vero eos
+* sanctus est Lorem
 
-Social Media Analysis
 
-* Sentiment and stance detection
-* Argument mining
-* Detection of hate speech and abusive language
-* Semantic meaning relations
 
-NLP Engineering
-
-* Robustness of tools
-* Domain adaption
-* Large-scale semantic processing
-
-We are committed to reproducible and replicable research. We generally make all research software publicly available. 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
