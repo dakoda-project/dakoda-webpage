@@ -5,7 +5,7 @@ group: Head
 group_rank: 1
 
 title: Prof. Dr. Katrin Wisniewski
-description: Profile of Prof. Dr. Katrin Wisniewski.
+description: Profile of Prof. Dr. Katrin Wisniewski
 lastname: Wisniewski
 publications: 'author^=*Wisniewski'
 years: []
