@@ -12,7 +12,7 @@ publications: 'author^=*Prepens'
 years: []
 
 teaser: >
-    Computer Scientist & NLP Researcher
+    More information coming soon
 
 profile:
     name: Lisa Prepens
