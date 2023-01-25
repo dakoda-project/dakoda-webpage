@@ -19,7 +19,7 @@ profile:
     align: right
     position: Dr.
     image: ruppenhofer.png
-    <!---role: --->
+    role: Default role
     email: josef.ruppenhofer@fernuni-hagen.de
     <!---github: --->
     <!---orcid: --->
