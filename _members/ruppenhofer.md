@@ -23,8 +23,8 @@ profile:
     <!---gemail:  --->
     <!---github: --->
     <!---orcid: --->
-    <!---address: >
-    	- --->
+    address: >
+    	Adresse
 ---
 
 More information coming soon
