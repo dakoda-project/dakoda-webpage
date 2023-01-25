@@ -24,7 +24,9 @@ profile:
     <!---github: --->
     <!---orcid: --->
     address: >
-    	Platzhalter für Adresse, Deutschland
+    	Universitätsstr. 27 – PRG / Gebäude 5<br /> 
+        Raum A 125 (1. Etage)<br />
+        58097 Hagen
     	
 ---
 
