@@ -20,7 +20,7 @@ profile:
     position: Dr.
     image: ruppenhofer.png
     <!---role: --->
-    <!---gemail:  --->
+    email: josef.ruppenhofer@fernuni-hagen.de
     <!---github: --->
     <!---orcid: --->
     address: >
