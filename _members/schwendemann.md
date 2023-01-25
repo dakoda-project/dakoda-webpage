@@ -21,8 +21,8 @@ profile:
     image: schwendmann.png
     role: Wiss. Mitarbeiter
     email: matthias.schwendemann@uni-bamberg.de
-    github: -
-    orcid: -
+    <!---github: --->
+    <!---orcid: --->
     address: >
         Linguistik des Deutschen als Fremdsprache, Geisteswissenschaftliches Zentrum, Beethovenstraße 15, Raum 1007, 04107 Leipzig
 ---
