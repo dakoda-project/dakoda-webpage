@@ -18,7 +18,7 @@ profile:
     name: Lisa Lenort
     align: right
     position: Wiss. Hilfskraft
-    image: -
+    image: lenort.png
     role: Wiss. Hilfskraft
     email:  -
     github: -

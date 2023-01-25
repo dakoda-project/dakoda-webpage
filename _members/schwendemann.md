@@ -18,7 +18,7 @@ profile:
     name: Matthias Schwendemann
     align: right
     position: Wiss. Mitarbeiter
-    image: -
+    image: schwendmann.png
     role: Wiss. Mitarbeiter
     email: matthias.schwendemann@uni-bamberg.de
     github: -

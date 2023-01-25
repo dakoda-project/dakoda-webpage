@@ -18,7 +18,7 @@ profile:
     name: Corina Leppich
     align: right
     position: -
-    image: -
+    image: leppich.png
     role: Sekretariat
     email:  sekretariat.lehrstuhl.germ-ling@uni-bamberg.de
     github: -

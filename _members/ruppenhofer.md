@@ -18,7 +18,7 @@ profile:
     name: Josef Ruppenhofer
     align: right
     position: Dr.
-    image: -
+    image: ruppenhofer.png
     role: -
     email:  -
     github: -

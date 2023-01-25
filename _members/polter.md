@@ -18,7 +18,7 @@ profile:
     name: Max Polter
     align: right
     position: -
-    image: -
+    image: polter.png
     role: -
     email:  -
     github: -

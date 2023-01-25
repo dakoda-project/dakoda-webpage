@@ -18,7 +18,7 @@ profile:
     name: Annette Portmann
     align: right
     position: Wiss. Hilfskraft
-    image: -
+    image: portmann.png
     role: Wiss. Hilfskraft
     email: annette.portmann@uni-bamberg.de
     github: -
