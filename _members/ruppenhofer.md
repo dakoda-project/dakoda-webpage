@@ -19,12 +19,12 @@ profile:
     align: right
     position: Dr.
     image: ruppenhofer.png
-    role: -
-    email:  -
-    github: -
-    orcid: -
-    address: >
-    	-
+    <!---role: --->
+    <!---gemail:  --->
+    <!---github: --->
+    <!---orcid: --->
+    <!---address: >
+    	- --->
 ---
 
 More information coming soon
