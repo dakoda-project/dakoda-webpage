@@ -5,34 +5,32 @@ group: Members
 group_rank: 2
 team_frontpage: true
 
-title: Jeanette Bewersdorff
-description: Profile of Jeanette Bewersdorff, PhD Candidate
-lastname: Bewersdorff
-publications: 'author^=*Bewersdorff'
+title: Lisa Prepens
+description: Profile of Lisa Prepens
+lastname: Prepens
+publications: 'author^=*Prepens'
 years: []
 
 teaser: >
     Computer Scientist & NLP Researcher
 
 profile:
-    name: (example_member) Jeanette Bewersdorff
+    name: Lisa Prepens
     align: right
-    position: PhD Candidate
-    image: Bild_JB.jpg
-    role: PhD Candidate
-    email: jeanette.bewersdorff@fernuni-hagen.de
-    github: JeaBew
-    orcid: 0000-0002-9091-2892
+    position: B. Sc.
+    image: prepens.jpg
+    role: Wiss. Hilfskraft
+    email: lisa.prepens@fernuni-hagen.de
+    github: lisprep
+    <!--- orcid: 0000-0002-9091-2892 --->
     address: >
         Universitätsstraße 27 – PRG / Building 5, Room B 118, 58097 Hagen
 ---
 
-
-As a researcher in the field of Natural Language Processing, I am working on the automated extraction of argumentation structures from documents using AI.
-
 #### CV
 
-- Research assistant at Language Technology Lab at University Duisburg-Essen (since November 2021)
-- PhD student in DFG RTG WisPerMed (since November 2021)
-- M.Sc. in Applied Computer Science, University Duisburg-Essen (October 2021)
-- B.Sc. in Applied Computer Science, University Duisburg-Essen (April 2018)
+- Wissenschaftliche Hilfskraft an Forschungsprofessur Computerlinguistik in FernUniversität in Hagen (Juli 2022 bis heute)
+- Wissenschaftliche Hilfskraft am Language Technology Lab in Universität Duisburg-Essen (März 2020 bis Juli 2022)
+- M.Sc. in Angewandte Kognitions- und Medienwissenschaft, Universität Duisburg-Essen (2022)
+- B.Sc. in Angewandte Kognitions- und Medienwissenschaft, Universität Duisburg-Essen (März 2018)
+
