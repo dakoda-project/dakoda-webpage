@@ -1,7 +1,8 @@
 ---
 layout: about
-title: About Us
+title: Über DAKODA
 permalink: /
+<!---nav: true--->
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:

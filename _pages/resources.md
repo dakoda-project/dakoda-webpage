@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Ressourcen
 permalink: /projects/
 description: Our resources. More coming soon.
 nav: true

@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /team
-title: People
-description: Members of the DAKODA project.
+permalink: /team/
+title: Team
+description: Mitglieder des DAKODA-Projekts.
 nav: true
 nav_rank: 2
 ---

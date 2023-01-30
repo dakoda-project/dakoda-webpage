@@ -18,7 +18,7 @@ profile:
     name: Luise Böttcher
     align: right
     position: -
-    image: -
+    image: boettcher.png
     role: -
     email:  -
     github: -
