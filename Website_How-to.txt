@@ -26,6 +26,9 @@ Adding publications
 
 - new bib-file:
   Change accordingly in config.yml and publications.md code
+- if two bib-files in about.html
+{% bibliography -f bibfile1 -q @*[year={{y}} && {{page.publications}}]* %}
+{% bibliography -f bibfile2 -q @*[year={{y}} && {{page.publications}}]* %}
 
 
 Adding news items
