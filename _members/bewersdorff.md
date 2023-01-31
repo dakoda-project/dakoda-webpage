@@ -19,7 +19,7 @@ profile:
     align: right
     position: PhD Candidate
     image: Bild_JB.jpg
-    role: PhD Candidate
+    #role: PhD Candidate
     email: jeanette.bewersdorff@fernuni-hagen.de
     github: JeaBew
     orcid: 0000-0002-9091-2892

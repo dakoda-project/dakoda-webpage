@@ -17,12 +17,12 @@ profile:
     name: Prof. Dr. Katrin Wisniewski
     position: Head of Chair
     align: right
-    image: wisniewski.png
+    image: platzhalter_avatar_pixabay.png
     email:  katrin.wisniewski@uni-bamberg.de
-    <!--- twitter: TorstenZesch --->
-    <!--- github: zesch --->
+    #twitter: TorstenZesch
+    #github: zesch
     address: >
-        Otto-Friedrich-Universität Bamberg <br /> 
+        Otto-Friedrich-Universität Bamberg <br />
         HO2 / 01.12 <br />
         96047 Bamberg
 ---

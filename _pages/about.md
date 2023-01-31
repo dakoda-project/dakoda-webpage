@@ -2,22 +2,23 @@
 layout: about
 title: Über DAKODA
 permalink: /
-<!---nav: true--->
+#nav: true
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    <p>Universitätsstr. 27 – PRG / Gebäude 5, Raum A 125 (1. Etage), 58097 Hagen</p>
+#profile:
+#  align: right
+#  image: prof_pic.jpg
+#  address: >
+#    <p>Universitätsstr. 27 – PRG / Gebäude 5, Raum A 125 (1. Etage), 58097 Hagen</p>
 
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+## WILLKOMMEN
 
-Willkommen auf der DAKODA-Projektseite!
+Herzlich willkommen auf der DAKODA-Projektseite!
 
 Ziele:
 1. Aufbau einer großen Lerner-Korpus-Datenbank; Verknüpfung von Korpora über Metadaten und automatische Annotationen (Dashboard & Repository)
@@ -31,9 +32,11 @@ Forschungsfragen:
 * RQ2: um sprachliche Variation innerhalb von Stufen mit mehr Indikatoren pro Stufe aufzuzeigen? \\
 * RQ3: um Verbindungen zu anderen Leistungsindikatoren wie GERS-Stufen und (syntaktische) Komplexität aufzuzeigen?
 
-xxx
+***
 
+## WELCOME
 
+Welcome to the DAKODA project page!
 
 Aims:
 1. Build a large learner corpus database; link corpora via metadata and automatic annotations (dashboard & repository)
