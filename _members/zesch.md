@@ -17,7 +17,7 @@ profile:
     name: Prof. Dr.-Ing. Torsten Zesch
     position: Leitung Team FUH
     align: right
-    image: zesch.png
+    image: zesch-neu.jpg
     email: torsten.zesch@fernuni-hagen.de
     twitter: TorstenZesch
     github: zesch
