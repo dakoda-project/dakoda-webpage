@@ -17,14 +17,14 @@ teaser: >
 profile:
     name: Max Polter
     align: right
-    position: -
-    image: polter.png
-    role: -
-    email:  -
-    github: -
-    orcid: -
+    position: Position
+    image: platzhalter_avatar_pixabay.png
+    #role: PhD Candidate
+    #email: josef.ruppenhofer@fernuni-hagen.de
+    #github: JeaBew
+    #orcid: 0000-0002-9091-2892
     address: >
-    	-
+        -
 ---
 
 More information coming soon

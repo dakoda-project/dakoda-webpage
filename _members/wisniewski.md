@@ -15,7 +15,7 @@ teaser: >
 
 profile:
     name: Prof. Dr. Katrin Wisniewski
-    position: Head of Chair
+    position: Leitung Team UBA
     align: right
     image: platzhalter_avatar_pixabay.png
     email:  katrin.wisniewski@uni-bamberg.de

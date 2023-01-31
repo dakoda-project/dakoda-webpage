@@ -17,7 +17,7 @@ teaser: >
 profile:
     name: Josef Ruppenhofer
     align: right
-    position: Dr.
+    position: Position
     image: platzhalter_avatar_pixabay.png
     #role: PhD Candidate
     email: josef.ruppenhofer@fernuni-hagen.de

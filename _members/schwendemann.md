@@ -17,7 +17,7 @@ teaser: >
 profile:
     name: Matthias Schwendemann
     align: right
-    position: Wiss. Mitarbeiter
+    position: Position
     image: platzhalter_avatar_pixabay.png
     #role: PhD Candidate
     email: matthias.schwendemann@uni-bamberg.de

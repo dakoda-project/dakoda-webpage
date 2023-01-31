@@ -17,14 +17,15 @@ teaser: >
 profile:
     name: Luise Böttcher
     align: right
-    position: -
-    image: boettcher.png
-    role: -
-    email:  -
-    github: -
-    orcid: -
+    position: Position
+    image: platzhalter_avatar_pixabay.png
+    #role: PhD Candidate
+    #email: josef.ruppenhofer@fernuni-hagen.de
+    #github: JeaBew
+    #orcid: 0000-0002-9091-2892
     address: >
-    	-
+        -
+
 ---
 
 More information coming soon
