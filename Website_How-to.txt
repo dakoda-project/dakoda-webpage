@@ -1,7 +1,7 @@
 How to make changes to the website
 ----------------------------------
 - Clone the repository, make changes to your files, commit and push. The deployment happens automatically.
-- For local development, i.e. if you want to look at your changes locally before committing them, please see "Local setup" here: https://github.com/ltl-ude/website#local-setup 
+- For local development, i.e. if you want to look at your changes locally before committing them, please see "Local setup" here: https://github.com/ltl-ude/website#local-setup
 
 
 Adding a new team member
@@ -23,6 +23,9 @@ Adding publications
 - all publications from the lab go into _bibliography/labpapers.bib
 - if you have publications that were not written in the lab but e.g. before you joined the group, these go into _bibliography/otherpublications.bib
 - On your members page, specifiy the years in which you have publications
+
+- new bib-file:
+  Change accordingly in config.yml and publications.md code
 
 
 Adding news items
