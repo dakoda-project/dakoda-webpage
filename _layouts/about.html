@@ -76,12 +76,11 @@ layout: default
       <div class="publications">
         {%- for y in page.years %}
           <h2 class="year">{{y}}</h2>
-          {% bibliography -f labpapers -q @*[year={{y}} && {{page.publications}}]* %}
-          {% bibliography -f otherpublications -q @*[year={{y}} && {{page.publications}}]* %}
+          {% bibliography -f dakoda-papers -q @*[year={{y}} && {{page.publications}}]* %}
+          <!---{% bibliography -f otherpublications -q @*[year={{y}} && {{page.publications}}]* %} --->
         {% endfor %}
       </div>
     {% endif %}
   </article>
 
 </div>
-
