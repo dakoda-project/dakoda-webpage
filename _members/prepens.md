@@ -18,7 +18,7 @@ profile:
     name: Lisa Prepens
     align: right
     position: Wiss. Hilfskraft
-    image: prepens.jpg
+    image: prepens-neu.jpg
     #role: Wiss. Hilfskraft
     email: lisa.prepens@fernuni-hagen.de
     github: lisprep

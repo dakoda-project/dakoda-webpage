@@ -18,9 +18,9 @@ profile:
     name: Lisa Lenort
     align: right
     position: Position
-    image: platzhalter_avatar_pixabay.png
+    image: lenort.jpg
     #role: PhD Candidate
-    #email: josef.ruppenhofer@fernuni-hagen.de
+    email: lisa.lenort@uni-bamberg.de
     #github: JeaBew
     #orcid: 0000-0002-9091-2892
     address: >

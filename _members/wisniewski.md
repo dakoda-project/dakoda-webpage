@@ -17,7 +17,7 @@ profile:
     name: Prof. Dr. Katrin Wisniewski
     position: Leitung Team UBA
     align: right
-    image: platzhalter_avatar_pixabay.png
+    image: wisniewski.jpg
     email:  katrin.wisniewski@uni-bamberg.de
     #twitter: TorstenZesch
     #github: zesch
