@@ -49,3 +49,7 @@ Research Questions:
 * RQ1: to indicate linguistic variation inside developmental stages (based on key indicators)?
 * RQ2: to show linguistic variation inside stages with more indicators per stage?
 * RQ3: to show links to other proficiency indicators such as CEFR levels & (syntactic) complexity?
+
+***
+
+### Gefördert von
