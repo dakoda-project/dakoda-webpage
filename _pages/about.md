@@ -56,8 +56,15 @@ Research Questions:
 
 #### Gefördert von
 
-<img src="./assets/img/Foerderhinweis_BMBF.jpg" width="200" height="185" alt="Förderhinweis des Bundesministerium für Bildung und Forschung" title="" />
-
-<img src="./assets/img/Foerderhinweis_EU_vertikal.jpg" width="200" height="185" alt="Förderhinweis der Europäischen Union" title="" />
-
 <!--- <img src="./assets/img/Foerderhinweis_EU_horizontal.jpg" alt="Alt-Text" title="" /> --->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <img src="./assets/img/Foerderhinweis_BMBF.jpg" class="img-fluid" alt="Förderhinweis des Bundesministerium für Bildung und Forschung" title="" />
+    </div>
+    <div class="col">
+      <img src="./assets/img/Foerderhinweis_EU_vertikal.jpg" class="img-fluid" alt="Förderhinweis der Europäischen Union" title="" />
+    </div>
+  </div>
+</div>  
