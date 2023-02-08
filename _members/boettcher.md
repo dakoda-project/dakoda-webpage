@@ -18,7 +18,7 @@ profile:
     name: Luise Böttcher
     align: right
     position: Position
-    image: platzhalter_avatar_pixabay.png
+    image: boettcher.png
     #role: PhD Candidate
     #email: josef.ruppenhofer@fernuni-hagen.de
     #github: JeaBew
