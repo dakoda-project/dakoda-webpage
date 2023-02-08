@@ -9,7 +9,7 @@ last_name:
 email: #you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Exploration sprachtechnologischer Ansätze zur Analyse von L2-Erwerbsstufen in Lernerkorpora des Deutschen
-footer_text: > # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text: # > Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: #jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: de # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -33,7 +33,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -81,7 +81,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:   # your blog must have a name for it to show up in the nav bar
+blog_name:  Was ist ein Blog # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
