@@ -10,8 +10,8 @@ lastname: Wisniewski
 publications: 'author^=*Wisniewski'
 years: []
 
-teaser: >
-    More information coming soon
+#teaser: >
+#    More information coming soon
 
 profile:
     name: Prof. Dr. Katrin Wisniewski

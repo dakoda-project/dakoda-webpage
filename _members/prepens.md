@@ -11,13 +11,13 @@ lastname: Prepens
 publications: 'author^=*Prepens'
 years: []
 
-teaser: >
-    More information coming soon
+#teaser: >
+#    More information coming soon
 
 profile:
     name: Lisa Prepens
     align: right
-    position: Wiss. Hilfskraft
+    position: Wissenschaftliche Hilfskraft Team FUH
     image: prepens-neu.jpg
     #role: Wiss. Hilfskraft
     email: lisa.prepens@fernuni-hagen.de

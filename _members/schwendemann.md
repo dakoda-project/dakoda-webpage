@@ -11,20 +11,22 @@ lastname: Schwendemann
 publications: 'author^=*Schwendemann'
 years: []
 
-teaser: >
-    More information coming soon
+#teaser: >
+#    More information coming soon
 
 profile:
     name: Matthias Schwendemann
     align: right
-    position: Position
-    image: platzhalter_avatar_pixabay.png
+    position: Wissenschaftlicher Mitarbeiter Team UBA
+    image: schwendemann.jpg
     #role: PhD Candidate
-    email: matthias.schwendemann@uni-bamberg.de
+    email: matthias.schwendemann@uni-bamberg.de / matthias.schwendemann@uni-leipzig.de
     #github: JeaBew
-    #orcid: 0000-0002-9091-2892
+    orcid: 0000-0001-6738-4748
     address: >
         Linguistik des Deutschen als Fremdsprache, Geisteswissenschaftliches Zentrum, Beethovenstraße 15, Raum 1007, 04107 Leipzig
 ---
 
-More information coming soon
+Matthias Schwendemann ist wissenschaftlicher Mitarbeiter im Drittmittelprojekt DAKODA an der Universität Bamberg und im Bereich Linguistik am Herder-Institut der Universität Leipzig. Seine Arbeitsschwerpunkte in Forschung und Lehre liegen in den Bereichen Lexikologie (hier vor allem Wortbildung), Wissenschaftssprache und Erwerb und Entwicklung des Deutschen als Fremd- und Zweitsprache.
+
+Seit Oktober 2019 ist er Mitglied in der Redaktion der Zeitschrift "Deutsch als Fremdsprache".
