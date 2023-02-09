@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Members
-group_rank: 2
+group: Assoziierte Forschende
+group_rank: 3
 team_frontpage: true
 
 title: Josef Ruppenhofer

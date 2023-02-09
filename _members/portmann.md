@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Members
+group: Mitglieder
 group_rank: 2
 team_frontpage: true
 

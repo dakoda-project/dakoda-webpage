@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Head
+group: Leitung
 group_rank: 1
 
 title: Prof. Dr.-Ing. Torsten Zesch
