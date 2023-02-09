@@ -18,7 +18,7 @@ profile:
     name: Annette Portmann
     align: right
     position: Position
-    image: portmann.png
+    image: platzhalter_avatar_pixabay.png
     #role: PhD Candidate
     email: annette.portmann@uni-bamberg.de
     #github: JeaBew

@@ -104,15 +104,15 @@ collections:
     output: true
     permalink: /news/:path/
 
-  projects:
-    output: true
-    permalink: /projects/:path/
+  #projects:
+  #  output: true
+  #  permalink: /projects/:path/
   members:
     output: true
     permalink: /members/:path/
-  corpora:
-    output: true
-    permalink: /corpora/:path/
+  #corpora:
+  #  output: true
+  #  permalink: /corpora/:path/
 
 news_limit: 5
 

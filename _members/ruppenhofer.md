@@ -18,7 +18,7 @@ profile:
     name: Josef Ruppenhofer
     align: right
     position: Position
-    image: ruppenhofer.png
+    image: platzhalter_avatar_pixabay.png
     #role: PhD Candidate
     email: josef.ruppenhofer@fernuni-hagen.de
     #github: JeaBew

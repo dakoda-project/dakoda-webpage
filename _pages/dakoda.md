@@ -1,0 +1,53 @@
+---
+#layout: about
+layout: page
+title: DAKODA Home
+#permalink: /ueber-dakoda/
+permalink: /
+nav: false
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Home
+
+#layout: page
+#title: Ressourcen
+#permalink: /ressourcen/
+#description: Unsere Ressourcen. Demnächst mehr.
+#nav: true
+
+#profile:
+#  align: right
+#  image: prof_pic.jpg
+#  address: >
+#    <p>Universitätsstr. 27 – PRG / Gebäude 5, Raum A 125 (1. Etage), 58097 Hagen</p>
+
+
+#news: true  # includes a list of news items
+#selected_papers: false # includes a list of papers marked as "selected={true}"
+#social: true # includes social icons at the bottom of the page
+---
+## WILLKOMMEN
+
+DAKODA ist ein interdisziplinäres Projekt mit dem übergeordneten Ziel, die Datenkompetenzen des wissenschaftlichen DaF/DaZ-Nachwuchses im Bereich Lernerkorpusforschung voranzutreiben. Im Projekt werden sprachtechnologische Ressourcen für erwerbsbezogene Fragestellungen entwickelt und auf Basis einer breiten Datengrundlage erprobt. DAKODA soll somit Möglichkeiten und Grenzen der Anwendung computerlinguistischer Verfahren für Lernersprachenanalysen explorativ ausloten. Dazu kooperiert das Projektteam an der Professur Deutsche Sprachwissenschaft/Deutsche Fremdsprache der Otto-Friedrich-Universität Bamberg (Leitung: Prof. Dr. Katrin Wisniewski) mit dem Language Technology Lab der FernUniversität in Hagen (Leitung: Prof. Dr.-Ing. Torsten Zesch).
+
+***
+
+## WELCOME
+
+DAKODA is an interdisciplinary project with the overarching goal of advancing the data competencies of young DaF/DaZ academics in the field of learner corpus research. In the project, language technology resources for acquisition-related questions are developed and tested on the basis of a broad data base. DAKODA will thus explore the possibilities and limits of using computational linguistic methods for learner language analyses. To this end, the project team at the Chair of German Linguistics/German Foreign Language at the Otto-Friedrich University of Bamberg (Director: Prof. Dr. Katrin Wisniewski) is cooperating with the Language Technology Lab at the FernUniversität in Hagen (Director: Prof. Dr.-Ing. Torsten Zesch).
+
+***
+
+#### Gefördert von
+
+<!--- <img src="./assets/img/Foerderhinweis_EU_horizontal.jpg" alt="Alt-Text" title="" /> --->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <img src="./assets/img/Foerderhinweis_BMBF.jpg" class="img-fluid" alt="Förderhinweis des Bundesministerium für Bildung und Forschung" title="" />
+    </div>
+    <div class="col">
+      <img src="./assets/img/Foerderhinweis_EU_vertikal.jpg" class="img-fluid" alt="Förderhinweis der Europäischen Union" title="" />
+    </div>
+  </div>
+</div>  

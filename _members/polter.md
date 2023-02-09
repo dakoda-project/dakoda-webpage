@@ -18,7 +18,7 @@ profile:
     name: Max Polter
     align: right
     position: Position
-    image: polter.png
+    image: platzhalter_avatar_pixabay.png
     #role: PhD Candidate
     #email: josef.ruppenhofer@fernuni-hagen.de
     #github: JeaBew
