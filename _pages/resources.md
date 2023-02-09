@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Ressourcen
-permalink: /projects/
+permalink: /ressourcen/
 description: Unsere Ressourcen. Demnächst mehr.
 nav: true
+#nav_rank:
+
+# Ehemals Projekte
 #display_categories: [current projects, past projects]
 #horizontal: True
 

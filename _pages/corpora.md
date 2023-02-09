@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /corpora/
+permalink: /korpora/
 title: Korpora
 description: Korpora des DAKODA-Projekts.
 nav: true
-nav_rank: 2
+nav_rank: 3
 
 ---
 ## Korpus 1

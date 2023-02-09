@@ -1,9 +1,18 @@
 ---
-layout: about
+#layout: about
+layout: page
 title: Über DAKODA
+#permalink: /ueber-dakoda/
 permalink: /
+nav: false
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Details
+
+#layout: page
+#title: Ressourcen
+#permalink: /ressourcen/
+#description: Unsere Ressourcen. Demnächst mehr.
 #nav: true
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 #profile:
 #  align: right
@@ -12,9 +21,9 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 #    <p>Universitätsstr. 27 – PRG / Gebäude 5, Raum A 125 (1. Etage), 58097 Hagen</p>
 
 
-news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+#news: true  # includes a list of news items
+#selected_papers: false # includes a list of papers marked as "selected={true}"
+#social: true # includes social icons at the bottom of the page
 ---
 ## WILLKOMMEN
 
