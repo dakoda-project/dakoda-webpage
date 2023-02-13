@@ -17,14 +17,14 @@ teaser: >
 profile:
     name: Luise Böttcher
     align: right
-    position: Position
-    image: platzhalter_avatar_pixabay.png
+    position: Studentische Hilfskraft Team UBA
+    image: boettcher.png
     #role: PhD Candidate
-    #email: josef.ruppenhofer@fernuni-hagen.de
+    email: luise.boettcher@uni-bamberg.de
     #github: JeaBew
     #orcid: 0000-0002-9091-2892
     address: >
-        -
+
 
 ---
 

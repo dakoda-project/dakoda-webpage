@@ -1,6 +1,6 @@
 ---
-#layout: about
-layout: page
+layout: about
+#layout: page
 title: DAKODA Home
 #permalink: /ueber-dakoda/
 permalink: /
@@ -15,19 +15,48 @@ description: Home
 #nav: true
 
 #profile:
-#  align: right
-#  image: prof_pic.jpg
-#  address: >
-#    <p>Universitätsstr. 27 – PRG / Gebäude 5, Raum A 125 (1. Etage), 58097 Hagen</p>
+  #align: right
+  #image: prof_pic.jpg
+  #address: >
+  #  <p>Universitätsstr. 27 – PRG / Gebäude 5, Raum A 125 (1. Etage), 58097 Hagen</p>
 
 
 #news: true  # includes a list of news items
 #selected_papers: false # includes a list of papers marked as "selected={true}"
 #social: true # includes social icons at the bottom of the page
 ---
+
 ## WILLKOMMEN
 
-DAKODA ist ein interdisziplinäres Projekt mit dem übergeordneten Ziel, die Datenkompetenzen des wissenschaftlichen DaF/DaZ-Nachwuchses im Bereich Lernerkorpusforschung voranzutreiben. Im Projekt werden sprachtechnologische Ressourcen für erwerbsbezogene Fragestellungen entwickelt und auf Basis einer breiten Datengrundlage erprobt. DAKODA soll somit Möglichkeiten und Grenzen der Anwendung computerlinguistischer Verfahren für Lernersprachenanalysen explorativ ausloten. Dazu kooperiert das Projektteam an der Professur Deutsche Sprachwissenschaft/Deutsche Fremdsprache der Otto-Friedrich-Universität Bamberg (Leitung: Prof. Dr. Katrin Wisniewski) mit dem Language Technology Lab der FernUniversität in Hagen (Leitung: Prof. Dr.-Ing. Torsten Zesch).
+DAKODA ist ein interdisziplinäres Projekt mit dem übergeordneten Ziel, die Datenkompetenzen des wissenschaftlichen DaF/DaZ-Nachwuchses im Bereich Lernerkorpusforschung voranzutreiben. Im Projekt werden sprachtechnologische Ressourcen für erwerbsbezogene Fragestellungen entwickelt und auf Basis einer breiten Datengrundlage erprobt. DAKODA soll somit Möglichkeiten und Grenzen der Anwendung computerlinguistischer Verfahren für Lernersprachenanalysen explorativ ausloten. Dazu kooperiert das [Projektteam](https://dakoda-project.github.io/dakoda-webpage/team/) an der Professur Deutsche Sprachwissenschaft/Deutsche Fremdsprache der Otto-Friedrich-Universität Bamberg (Leitung: Prof. Dr. Katrin Wisniewski) mit dem Language Technology Lab der FernUniversität in Hagen (Leitung: Prof. Dr.-Ing. Torsten Zesch).
+
+<table>
+    <tr>
+      <th>DAKODA: </th>
+      <td><b>Da</b>ten<b>ko</b>mpetenzen in <b>Da</b>F/DaZ: Exploration sprachtechnologischer Ansätze zur Analyse von L2-Erwerbsstufen in Lernerkorpora des Deutschen</td>
+    </tr>
+    <tr>
+      <th>Verbundpartner: </th>
+      <td>Prof. Dr. Katrin Wisniewski, Otto-Friedrich-Universität Bamberg (Gesamtleitung) & Prof. Dr.-Ing. Torsten Zesch, FernUniversität Hagen (Leitung Teilprojekt Hagen)</td>
+    </tr>
+    <tr>
+      <th>Fördergeber: </th>
+      <td>BMBF</td>
+    </tr>
+    <tr>
+      <th>Förderlinie: </th>
+      <td><a href="https://www.bildung-forschung.digital/digitalezukunft/de/wissen/forschungsdaten/datenkompetenzen-wiss-nachwuchs/datenkompetenz-wiss-nachwuchs_node.html">Förderlinie „Datenkompetenzen des wissenschaftlichen Nachwuchses“</a></td>
+    </tr>
+    <tr>
+      <th>Laufzeit: </th>
+      <td>10/2022 - 09/2025</td>
+    </tr>
+    <tr>
+      <th>Kontakt: </th>
+      <td>dakoda.germ-lingdaf@uni-bamberg.de</td>
+    </tr>
+
+  </table>
 
 ***
 
