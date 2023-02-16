@@ -1,18 +1,12 @@
 ---
-#layout: about
-layout: page
+layout: about
+#layout: page
 title: DAKODA Home
 #permalink: /ueber-dakoda/
 permalink: /
 nav: false
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-description: Home
-
-#layout: page
-#title: Ressourcen
-#permalink: /ressourcen/
-#description: Unsere Ressourcen. Demnächst mehr.
-#nav: true
+#description: Home
 
 #profile:
   #align: right

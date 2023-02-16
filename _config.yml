@@ -104,9 +104,9 @@ collections:
     output: true
     permalink: /news/:path/
 
-  #projects:
-  #  output: true
-  #  permalink: /projects/:path/
+  events:
+    output: true
+    permalink: /events/:path/
   members:
     output: true
     permalink: /members/:path/
