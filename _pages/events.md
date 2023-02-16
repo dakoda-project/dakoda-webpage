@@ -7,7 +7,7 @@ nav: true
 #nav_rank:
 
 # Ehemals Projekte
-display_categories: [2023, 2022]
+display_categories: [2023]
 horizontal: True
 
 ---
