@@ -103,10 +103,10 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-
-  events:
-    output: true
-    permalink: /events/:path/
+  # ehemals projects
+  #events:
+  #  output: true
+  #  permalink: /events/:path/
   members:
     output: true
     permalink: /members/:path/
