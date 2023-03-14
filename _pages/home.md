@@ -1,6 +1,6 @@
 ---
-#layout: about
-layout: page
+layout: about
+#layout: page
 title: DAKODA Home
 #permalink: /ueber-dakoda/
 permalink: /
@@ -8,9 +8,9 @@ nav: false
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 #description: Home
 
-#profile:
-  #align: right
-  #image: prof_pic.jpg
+profile:
+  align: right
+  image: DAKODA---Logo-Design---final---high-resolution---color.png
   #address: >
   #  <p>Universitätsstr. 27 – PRG / Gebäude 5, Raum A 125 (1. Etage), 58097 Hagen</p>
 
