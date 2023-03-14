@@ -35,3 +35,5 @@ profile:
 - Wissenschaftliche Hilfskraft am Language Technology Lab in Universität Duisburg-Essen (März 2020 bis Juli 2022)
 - M.Sc. in Angewandte Kognitions- und Medienwissenschaft, Universität Duisburg-Essen (2022)
 - B.Sc. in Angewandte Kognitions- und Medienwissenschaft, Universität Duisburg-Essen (März 2018)
+
+Test
