@@ -15,7 +15,7 @@ nav: true
 
 DAKODA verfolgt drei Kernziele:
 
-<details>
+<details open>
   <summary><b>1.	Explorative automatisierte Analysen von syntaktischen Erwerbsstufen </b></summary>
   <div>
   <p>
@@ -41,7 +41,7 @@ DAKODA verfolgt drei Kernziele:
   </div>
 </details>
 
-<details>
+<details open>
   <summary><b>2. Zusammenführung vieler Lernerkorpora; Zugang über ein Dashboard und ein Repositorium </b></summary>
   <div>
   <p>
@@ -63,7 +63,7 @@ DAKODA verfolgt drei Kernziele:
   </div>
 </details>
 
-<details>
+<details open>
   <summary><b>3. Förderung der Datenkompetenzen des wissenschaftlichen DaF-/DaZ-Nachwuchses </b></summary>
   <div>
   <p>
