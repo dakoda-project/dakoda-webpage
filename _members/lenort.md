@@ -17,7 +17,7 @@ teaser: >
 profile:
     name: Lisa Lenort
     align: right
-    position: Position
+    position: Studentische Hilfskraft Team UBA 
     image: lenort.jpg
     #role: PhD Candidate
     email: lisa.lenort@uni-bamberg.de

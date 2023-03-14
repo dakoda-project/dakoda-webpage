@@ -1,6 +1,6 @@
 ---
-layout: about
-#layout: page
+#layout: about
+layout: page
 title: DAKODA Home
 #permalink: /ueber-dakoda/
 permalink: /

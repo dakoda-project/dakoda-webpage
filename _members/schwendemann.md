@@ -9,7 +9,7 @@ title: Matthias Schwendemann
 description: Profile of Matthias Schwendemann
 lastname: Schwendemann
 publications: 'author^=*Schwendemann'
-years: []
+years: [2023, 2022]
 
 #teaser: >
 #    More information coming soon

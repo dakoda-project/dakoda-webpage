@@ -4,7 +4,7 @@ permalink: /team/
 title: Team
 description: Mitglieder des DAKODA-Projekts.
 nav: true
-nav_rank: 2
+#nav_rank: 2
 ---
 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
@@ -57,3 +57,31 @@ nav_rank: 2
 <br/>
     {% endfor %}
 {% endfor %}
+
+## Wissenschaftlicher Beirat
+**Christine Czinglar** <br>
+Professorin für Deutsch als Zweit- und Fremdsprache an der Friedrich-Schiller-Universität Jena
+
+**Stefanie Dipper** <br>
+Professorin für Computerlinguistik an der Ruhr-Universität Bochum, Lehrstuhl für Linguistik und Projektleitung des SFB-Projekts C6
+
+**Jana Gamper** <br>
+Professorin für Deutsch als Zweitsprache an der Justus-Liebig-Universität Gießen
+
+**Gisela Håkansson** <br>
+Emeritierte Professorin für Allgemeine Linguistik an der Universität Lund
+
+**Hagen Hirschmann** <br>
+Wissenschaftlicher Mitarbeiter am Institut für Deutsche Sprache und Linguistik der Humboldt-Universität zu Berlin, Abteilung Korpuslinguistik und Morphologie
+
+**Anke Lenzing** <br>
+Professorin für Fachdidaktik in Englisch, Universität Innsbruck
+
+**Detmar Meurers** <br>
+Professor für Computerlinguistik und Leiter der Arbeitsgruppe Theoretische Computerlinguistik an der Universität Tübingen
+
+**Elena Volodina** <br>
+Forscherin am Fachbereich Schwedisch, Mehrsprachigkeit, Sprachtechnologie an der Universität Göteborg
+
+**Sonja Zimmermann** <br>
+Test-DaF-Institut/g.a.s.t
