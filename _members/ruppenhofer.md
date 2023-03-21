@@ -15,7 +15,7 @@ teaser: >
     More information coming soon
 
 profile:
-    name: Josef Ruppenhofer
+    name: Dr. Josef Ruppenhofer
     align: right
     position: Wissenschaftlicher Mitarbeiter Team FUH
     image: platzhalter_avatar_pixabay.png
