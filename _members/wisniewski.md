@@ -15,7 +15,7 @@ years: [2022, 2020, 2017]
 
 profile:
     name: Prof. Dr. Katrin Wisniewski
-    position: Projektleitung Team UBA
+    position: Projektleitung Team Leipzig
     align: right
     image: wisniewski.jpg
     email:  katrin.wisniewski@uni-bamberg.de
@@ -23,11 +23,10 @@ profile:
     #github: zesch
     orcid: 0000-0003-4124-2543
     address: >
-        Otto-Friedrich-Universität Bamberg <br />
-        Institut für Germanistik <br />
-        Professur Deutsche Sprachwissenschaft/Deutsch als Fremdsprache <br />
-        Hornthalstraße 2 <br />
-        96047 Bamberg
+        Universität Leipzig <br />
+        Herder-Institut <br />
+        Beethovenstraße 15 <br />
+        04107 Leipzig
 ---
 
 More information coming soon

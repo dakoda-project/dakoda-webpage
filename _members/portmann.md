@@ -17,14 +17,17 @@ teaser: >
 profile:
     name: Annette Portmann
     align: right
-    position: Position
+    position: Wissenschaftliche Mitarbeiterin Team Lepizig
     image: platzhalter_avatar_pixabay.png
     #role: PhD Candidate
     email: annette.portmann@uni-bamberg.de
     #github: JeaBew
     #orcid: 0000-0002-9091-2892
     address: >
-        Linguistik des Deutschen als Fremdsprache, Geisteswissenschaftliches Zentrum, Beethovenstraße 15, Raum 1007, 04107 Leipzig
+        Universität Leipzig <br />
+        Herder-Institut <br />
+        Beethovenstraße 15 <br />
+        04107 Leipzig
 ---
 
 More information coming soon

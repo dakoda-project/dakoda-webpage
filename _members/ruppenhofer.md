@@ -18,7 +18,7 @@ profile:
     name: Dr. Josef Ruppenhofer
     align: right
     position: Wissenschaftlicher Mitarbeiter Team FUH
-    image: platzhalter_avatar_pixabay.png
+    image: ruppenhofer.jpg
     #role: PhD Candidate
     email: josef.ruppenhofer@fernuni-hagen.de
     #github: JeaBew
