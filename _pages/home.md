@@ -31,7 +31,7 @@ DAKODA ist ein interdisziplinäres Projekt mit dem übergeordneten Ziel, die Dat
     </tr>
     <tr>
       <th>Verbundpartner: </th>
-      <td>Prof. Dr. Katrin Wisniewski, Otto-Friedrich-Universität Bamberg (Gesamtleitung) & Prof. Dr.-Ing. Torsten Zesch, FernUniversität Hagen (Leitung Teilprojekt Hagen)</td>
+      <td>Prof. Dr. Katrin Wisniewski, Universität Leipzig (Gesamtleitung) & Prof. Dr.-Ing. Torsten Zesch, FernUniversität Hagen (Leitung Teilprojekt Hagen)</td>
     </tr>
     <tr>
       <th>Fördergeber: </th>
