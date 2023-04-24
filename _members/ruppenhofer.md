@@ -17,7 +17,7 @@ teaser: >
 profile:
     name: Dr. Josef Ruppenhofer
     align: right
-    position: Wissenschaftlicher Mitarbeiter Team FUH
+    position: Wissenschaftlicher Mitarbeiter Team FernUni Hagen
     image: ruppenhofer.jpg
     #role: PhD Candidate
     email: josef.ruppenhofer@fernuni-hagen.de
