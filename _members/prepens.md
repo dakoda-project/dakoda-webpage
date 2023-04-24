@@ -17,7 +17,7 @@ years: []
 profile:
     name: Lisa Prepens
     align: right
-    position: Wissenschaftliche Hilfskraft Team FUH
+    position: Wissenschaftliche Hilfskraft Team FernUni Hagen
     image: prepens-neu.jpg
     #role: Wiss. Hilfskraft
     email: lisa.prepens@fernuni-hagen.de
