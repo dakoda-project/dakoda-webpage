@@ -15,7 +15,7 @@ years: #[2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2
 
 profile:
     name: Prof. Dr.-Ing. Torsten Zesch
-    position: Projektleitung Team FUH
+    position: Projektleitung Team FernUni Hagen
     align: right
     image: zesch-neu.jpg
     email: torsten.zesch@fernuni-hagen.de
