@@ -11,8 +11,8 @@ lastname: Polter
 publications: 'author^=*Polter'
 years: []
 
-teaser: >
-    More information coming soon
+#teaser: >
+#    More information coming soon
 
 profile:
     name: Max Polter

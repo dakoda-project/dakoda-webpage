@@ -11,8 +11,8 @@ lastname: Leppich
 publications: 'author^=*Leppich'
 years: []
 
-teaser: >
-    More information coming soon
+#teaser: >
+#    More information coming soon
 
 profile:
     name: Corina Leppich

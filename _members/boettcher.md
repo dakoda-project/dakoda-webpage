@@ -11,8 +11,8 @@ lastname: Böttcher
 publications: 'author^=*Böttcher'
 years: []
 
-teaser: >
-    More information coming soon
+#teaser: >
+#    More information coming soon
 
 profile:
     name: Luise Böttcher

@@ -11,8 +11,8 @@ lastname: Ruppenhofer
 publications: 'author^=*Ruppenhofer'
 years: []
 
-teaser: >
-    More information coming soon
+#teaser: >
+#    More information coming soon
 
 profile:
     name: Dr. Josef Ruppenhofer

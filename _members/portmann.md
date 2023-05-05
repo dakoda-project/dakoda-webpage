@@ -11,14 +11,14 @@ lastname: Portmann
 publications: 'author^=*Portmann'
 years: []
 
-teaser: >
-    More information coming soon
+#teaser: >
+#    More information coming soon
 
 profile:
     name: Annette Portmann
     align: right
     position: Wissenschaftliche Mitarbeiterin Team Lepizig
-    image: platzhalter_avatar_pixabay.png
+    image: portmann.jpg
     #role: PhD Candidate
     email: annette.portmann@uni-bamberg.de
     #github: JeaBew

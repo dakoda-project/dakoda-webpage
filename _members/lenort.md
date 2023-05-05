@@ -11,8 +11,8 @@ lastname: Lenort
 publications: 'author^=*Lenort'
 years: []
 
-teaser: >
-    More information coming soon
+#teaser: >
+#    More information coming soon
 
 profile:
     name: Lisa Lenort
