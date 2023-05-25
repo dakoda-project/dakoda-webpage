@@ -1,14 +1,15 @@
 ---
 layout: about
 inline: false
-group: Assoziierte Forschende
-group_rank: 3
+group: Mitglieder
+group_rank: 2
+member_rank: 1
 team_frontpage: true
 
 title: Christine Renker
 description: Profile of Christine Renker
-lastname: Portmann
-publications: 'author^=*Portmann'
+lastname: Renker
+publications: 'author^=*Renker'
 years: []
 
 #teaser: >

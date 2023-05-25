@@ -11,6 +11,7 @@ nav: true
 {% for group in groups %}
 ## {{ group }}
 
+    {% assign members = site.members | sort: "member_rank" | where: "group", group %}
     {% assign members = site.members | sort: "lastname" | where: "group", group %}
     {% for member in members %}
 <p>

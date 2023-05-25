@@ -5,22 +5,22 @@ group: Assoziierte Forschende
 group_rank: 3
 team_frontpage: true
 
-title: Lisa Lenort
-description: Profile of Lisa Lenort
-lastname: Lenort
-publications: 'author^=*Lenort'
+title: Shanny Druker
+description: Profile of Shanny Druker
+lastname: Druker
+publications: 'author^=*Druker'
 years: []
 
 #teaser: >
 #    More information coming soon
 
 profile:
-    name: Lisa Lenort
+    name: Shanny Druker
     align: right
-    position: Wissenschaftlicher Mitarbeiterin Team Lepizig 
-    image: lenort.jpg
+    position: Studentische Hilfskraft Team Leipzig
+    image: platzhalter_avatar_pixabay.png
     #role: PhD Candidate
-    email: lisa.lenort@uni-bamberg.de
+    #email: sekretariat.lehrstuhl.germ-ling@uni-bamberg.de
     #github: JeaBew
     #orcid: 0000-0002-9091-2892
     address: >

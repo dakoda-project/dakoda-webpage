@@ -3,6 +3,7 @@ layout: about
 inline: false
 group: Mitglieder
 group_rank: 2
+member_rank: 1
 team_frontpage: true
 
 title: Dr. Josef Ruppenhofer

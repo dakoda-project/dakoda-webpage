@@ -3,6 +3,7 @@ layout: about
 inline: false
 group: Mitglieder
 group_rank: 2
+member_rank: 1
 team_frontpage: true
 
 title: Matthias Schwendemann
@@ -20,7 +21,7 @@ profile:
     position: Wissenschaftlicher Mitarbeiter Team Lepizig
     image: schwendemann.jpg
     #role: PhD Candidate
-    email: matthias.schwendemann@uni-bamberg.de / matthias.schwendemann@uni-leipzig.de
+    email: matthias.schwendemann@uni-leipzig.de
     #github: JeaBew
     orcid: 0000-0001-6738-4748
     address: >

@@ -1,8 +1,9 @@
 ---
 layout: about
 inline: false
-group: Assoziierte Forschende
-group_rank: 3
+group: Mitglieder
+group_rank: 2
+member_rank: 2
 team_frontpage: true
 
 title: Lisa Prepens
