@@ -18,7 +18,7 @@ profile:
     name: Shanny Druker
     align: right
     position: Studentische Hilfskraft Team Leipzig
-    image: platzhalter_avatar_pixabay.png
+    image: druker.png
     #role: PhD Candidate
     #email: sekretariat.lehrstuhl.germ-ling@uni-bamberg.de
     #github: JeaBew
