@@ -18,7 +18,7 @@ years: []
 profile:
     name: Christine Renker
     align: right
-    position: Wissenschaftliche Mitarbeiterin Team Lepizig
+    position: Wissenschaftliche Mitarbeiterin Team Leipzig
     image: renker.jpg
     #role: PhD Candidate
     email: christine.renker@uni-bamberg.de

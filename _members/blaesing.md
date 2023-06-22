@@ -18,10 +18,10 @@ years: []
 profile:
     name: Jamila Bläsing
     align: right
-    position: Studentische Hilfskraft Team Leipzig
+    position: Wissenschaftliche Hilfskraft Team Leipzig
     image: platzhalter_avatar_pixabay.png
     #role: PhD Candidate
-    #email: sekretariat.lehrstuhl.germ-ling@uni-bamberg.de
+    #email: -
     #github: JeaBew
     #orcid: 0000-0002-9091-2892
     address: >

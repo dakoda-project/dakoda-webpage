@@ -18,7 +18,7 @@ years: []
 profile:
     name: Annette Portmann
     align: right
-    position: Wissenschaftliche Mitarbeiterin Team Lepizig
+    position: Wissenschaftliche Mitarbeiterin Team Leipzig
     image: portmann.jpg
     #role: PhD Candidate
     email: annette.portmann@uni-leipzig.de

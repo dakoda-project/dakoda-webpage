@@ -18,7 +18,7 @@ profile:
     position: Projektleitung Team Leipzig
     align: right
     image: wisniewski.jpg
-    email:  katrin.wisniewski@uni-bamberg.de
+    email:  katrin.wisniewski@uni-leipzig.de
     #twitter: TorstenZesch
     #github: zesch
     orcid: 0000-0003-4124-2543

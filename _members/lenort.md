@@ -17,10 +17,10 @@ years: []
 profile:
     name: Lisa Lenort
     align: right
-    position: Wissenschaftlicher Mitarbeiterin Team Lepizig 
+    position: Wissenschaftliche Mitarbeiterin Team Leipzig
     image: lenort.jpg
     #role: PhD Candidate
-    email: lisa.lenort@uni-bamberg.de
+    email: lisa.lenort@uni-leipzig.de
     #github: JeaBew
     #orcid: 0000-0002-9091-2892
     address: >

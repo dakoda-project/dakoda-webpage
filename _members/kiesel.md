@@ -19,9 +19,9 @@ profile:
     name: Denise Kiesel
     align: right
     position: Projektassistenz Team Leipzig
-    image: platzhalter_avatar_pixabay.png
+    image: kiesel.jpg
     #role: PhD Candidate
-    #email: sekretariat.lehrstuhl.germ-ling@uni-bamberg.de
+    #email: -
     #github: JeaBew
     #orcid: 0000-0002-9091-2892
     address: >

@@ -18,7 +18,7 @@ years: []
 profile:
     name: Luise Böttcher
     align: right
-    position: Studentische Hilfskraft Team Leipzig
+    position: Wissenschaftliche Hilfskraft Team Leipzig
     image: boettcher.png
     #role: PhD Candidate
     email: luise.boettcher@uni-bamberg.de

@@ -18,7 +18,7 @@ years: [2023, 2022]
 profile:
     name: Matthias Schwendemann
     align: right
-    position: Wissenschaftlicher Mitarbeiter Team Lepizig
+    position: Wissenschaftlicher Mitarbeiter Team Leipzig
     image: schwendemann.jpg
     #role: PhD Candidate
     email: matthias.schwendemann@uni-leipzig.de

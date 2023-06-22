@@ -47,7 +47,7 @@ DAKODA ist ein interdisziplinäres Projekt mit dem übergeordneten Ziel, die Dat
     </tr>
     <tr>
       <th>Kontakt: </th>
-      <td>dakoda.germ-lingdaf@uni-bamberg.de</td>
+      <td>dakoda@uni-leipzig.de</td>
     </tr>
 
   </table>
