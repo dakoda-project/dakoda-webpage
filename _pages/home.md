@@ -45,10 +45,10 @@ DAKODA ist ein interdisziplinäres Projekt mit dem übergeordneten Ziel, die Dat
       <th>Laufzeit: </th>
       <td>10/2022 - 09/2025</td>
     </tr>
-    <tr>
+    <!---<tr>
       <th>Kontakt: </th>
-      <td>dakoda@uni-leipzig.de</td>
-    </tr>
+      <td>dakoda@uni-leipzig.de</td> 
+    </tr> --->
 
   </table>
 
