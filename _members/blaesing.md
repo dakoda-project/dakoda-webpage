@@ -19,7 +19,7 @@ profile:
     name: Jamila Bläsing
     align: right
     position: Wissenschaftliche Hilfskraft Team Leipzig
-    image: platzhalter_avatar_pixabay.png
+    image: blaesing.jpg
     #role: PhD Candidate
     #email: -
     #github: JeaBew

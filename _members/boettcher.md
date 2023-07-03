@@ -21,7 +21,7 @@ profile:
     position: Wissenschaftliche Hilfskraft Team Leipzig
     image: boettcher.png
     #role: PhD Candidate
-    email: luise.boettcher@uni-bamberg.de
+    email: luise.boettcher@studserv.uni-leipzig.de
     #github: JeaBew
     #orcid: 0000-0002-9091-2892
     address: >
