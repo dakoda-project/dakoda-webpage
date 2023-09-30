@@ -50,7 +50,7 @@ nav: true
   <summary><b>Inhalt:</b></summary>
   <div>
   <p>
-  Die Niveaus des Gemeinsamen europäischen Referenzrahmens (Europarat 2001, 2020) werden weltweit als eine Art gemeinsame Metasprache benutzt, um Sprachtests, Sprachkurse und Lehrwerke auf fremdsprachliche Kompetenzen zu beziehen. Oft ist jedoch nicht klar, was die Niveaus aussagen (vor allem auch: was nicht), wo sie überhaupt herkommen, welche sprachlichen Merkmale typisch für welche Niveaus sind und wie man beispielsweise einen Test tatsächlich auf die GER- Niveaus "bezieht".
+  Die Niveaus des Gemeinsamen europäischen Referenzrahmens werden weltweit als eine Art gemeinsame Metasprache benutzt, um Sprachtests, Sprachkurse und Lehrwerke auf fremdsprachliche Kompetenzen zu beziehen. Oft ist jedoch nicht klar, was die Niveaus aussagen (vor allem auch: was nicht), wo sie überhaupt herkommen, welche sprachlichen Merkmale typisch für welche Niveaus sind und wie man beispielsweise einen Test tatsächlich auf die GER- Niveaus "bezieht".
 Unser Workshop, der im Rahmen des DAKODA-Projekts frei digital angeboten wird und die oben aufgeworfenen Fragen behandelt, richtet sich an Interessierte unterschiedlicher Fachrichtungen, die keine oder nur sehr geringe Vorkenntnisse zum GER haben. </p>
   </div>
 </details>
