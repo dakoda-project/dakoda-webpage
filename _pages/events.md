@@ -34,7 +34,7 @@ nav: true
     </tr>
     <tr>
       <th>Titel: </th>
-      <td>Workshop „Die Niveaus des Gemeinsamen europäischen Referenzrahmens“</td>
+      <td>Workshop "Die Niveaus des Gemeinsamen europäischen Referenzrahmens"</td>
     </tr>
     <tr>
       <th>Organisator*innen: </th>
@@ -42,7 +42,7 @@ nav: true
     </tr>
       <tr>
       <th>Anmeldung: </th>
-      <td><a href="https://umfrage.uni- leipzig.de/index.php/392792?lang=en">Registierung für den Workshop</a></td>
+      <td><a href="https://umfrage.uni-leipzig.de/index.php/392792?lang=en">Registierung für den Workshop</a></td>
     </tr>
 </table>
 
