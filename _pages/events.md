@@ -1,16 +1,12 @@
 ---
 layout: page
-title: Events
-permalink: /events/
-description: Events im Rahmen des DAKODA-Projekts.
+title: projects
+permalink: /projects/
+description: A growing collection of your cool projects.
 nav: true
-#nav_rank:
-display_categories: [Workshops, Vorträge]
+nav_order: 2
+display_categories: [work, fun]
 horizontal: false
-
-# Ehemals Projekte
-#display_categories: [2023]
-
 ---
 
 <!-- pages/projects.md -->
@@ -60,4 +56,3 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
-
