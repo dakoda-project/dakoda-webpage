@@ -5,12 +5,12 @@ permalink: /events/
 description: Events im Rahmen des DAKODA-Projekts.
 nav: true
 #nav_rank:
-#display_categories: [Workshops, Vorträge]
-display_categories: [work,fun]
+display_categories: [Workshops, Vorträge]
+horizontal: false
 
 # Ehemals Projekte
 #display_categories: [2023]
-horizontal: false
+
 ---
 
 <!-- pages/projects.md -->
