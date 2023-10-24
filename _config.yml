@@ -110,6 +110,9 @@ collections:
   members:
     output: true
     permalink: /members/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
   #corpora:
   #  output: true
   #  permalink: /corpora/:path/
