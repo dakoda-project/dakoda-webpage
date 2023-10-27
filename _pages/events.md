@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Events
 permalink: /events/
-description: A growing collection of your cool projects.
+description: Events im Rahmen des DAKODA-Projekts.
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+#nav_order: 2
+display_categories: [Workshops, Vorträge]
 horizontal: false
 ---
 
