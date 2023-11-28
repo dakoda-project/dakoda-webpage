@@ -2,7 +2,7 @@
 layout: page
 title: 27.06.2023
 description: "Korpusdaten - Konvertierung und Extraktion"
-importance: 2
+importance: 3
 category: Workshops
 ---
 

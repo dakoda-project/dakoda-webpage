@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 20.10.2023
+title: 01.12.2023
 description: "Die Niveaus des Gemeinsamen europäischen Referenzrahmens"
-importance: 2
+importance: 1
 category: Workshops
 
 ---
@@ -10,7 +10,7 @@ category: Workshops
 <table>
     <tr>
       <th>Datum: </th>
-      <td>20.10.2023, 13-15 Uhr</td>
+      <td>01.12.2023, 13-15 Uhr</td>
     </tr>
      <tr>
       <th>Ort: </th>
