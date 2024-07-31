@@ -1,9 +1,9 @@
 ---
 layout: about
 inline: false
-group: Mitglieder
-group_rank: 2
-member_rank: 1
+group: Assoziierte Forschende
+group_rank: 3
+member_rank: 2
 team_frontpage: true
 
 title: Christine Renker

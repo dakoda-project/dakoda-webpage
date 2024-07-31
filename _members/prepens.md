@@ -1,9 +1,8 @@
 ---
 layout: about
 inline: false
-group: Mitglieder
-group_rank: 2
-member_rank: 2
+group: Ehemalige Teammitglieder
+group_rank: 4
 team_frontpage: true
 
 title: Lisa Prepens
@@ -19,9 +18,9 @@ profile:
     name: Lisa Prepens
     align: right
     position: Wissenschaftliche Hilfskraft Team FernUni Hagen
-    image: prepens-neu.jpg
+    #image: prepens-neu.jpg
     #role: Wiss. Hilfskraft
-    email: lisa.prepens@fernuni-hagen.de
+    #email: lisa.prepens@fernuni-hagen.de
     github: lisprep
     #orcid: 0000-0002-9091-2892
     address: >

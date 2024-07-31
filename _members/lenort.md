@@ -3,6 +3,7 @@ layout: about
 inline: false
 group: Assoziierte Forschende
 group_rank: 3
+member_rank: 1
 team_frontpage: true
 
 title: Lisa Lenort

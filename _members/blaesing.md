@@ -1,9 +1,8 @@
 ---
 layout: about
 inline: false
-group: Mitglieder
-group_rank: 2
-member_rank: 3
+group: Ehemalige Teammitglieder
+group_rank: 4
 team_frontpage: true
 
 title: Jamila Bläsing
@@ -19,7 +18,7 @@ profile:
     name: Jamila Bläsing
     align: right
     position: Wissenschaftliche Hilfskraft Team Leipzig
-    image: blaesing.jpg
+    #image: blaesing.jpg
     #role: PhD Candidate
     #email: -
     #github: JeaBew

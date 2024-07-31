@@ -1,9 +1,8 @@
 ---
 layout: about
 inline: false
-group: Mitglieder
-group_rank: 2
-member_rank: 3
+group: Ehemalige Teammitglieder
+group_rank: 4
 team_frontpage: true
 
 title: Luise Böttcher
@@ -19,7 +18,7 @@ profile:
     name: Luise Böttcher
     align: right
     position: Wissenschaftliche Hilfskraft Team Leipzig
-    image: boettcher.png
+    #image: boettcher.png
     #role: PhD Candidate
     email: luise.boettcher@studserv.uni-leipzig.de
     #github: JeaBew

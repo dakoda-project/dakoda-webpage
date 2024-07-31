@@ -1,24 +1,25 @@
 ---
 layout: about
 inline: false
-group: Ehemalige Teammitglieder
-group_rank: 4
+group: Mitglieder
+group_rank: 3
+member_rank: 2
 team_frontpage: true
 
-title: Shanny Druker
-description: Profile of Shanny Druker
-lastname: Druker
-publications: 'author^=*Druker'
+title: Iulia Sucutardean
+description: Profile of Iulia Sucutardean
+lastname: Sucutardean
+publications: 'author^=*Sucutardean'
 years: []
 
 #teaser: >
 #    More information coming soon
 
 profile:
-    name: Shanny Druker
+    name: Iulia Sucutardean
     align: right
     position: Wissenschaftliche Hilfskraft Team Leipzig
-    #image: druker.png
+    image: iulia.jpg
     #role: PhD Candidate
     #email: -
     #github: JeaBew
