@@ -18,11 +18,11 @@ profile:
     name: Jamila Bläsing
     align: right
     position: Wissenschaftliche Hilfskraft Team Leipzig
-    #image: blaesing.jpg
-    #role: PhD Candidate
-    #email: -
-    #github: JeaBew
-    #orcid: 0000-0002-9091-2892
+    image: blaesing.jpg
+    role: PhD Candidate
+    # email: 
+    # github:
+    # orcid: 0000-0002-9091-2892
     address: >
         Universität Leipzig <br />
         Herder-Institut <br />

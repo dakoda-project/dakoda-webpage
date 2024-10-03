@@ -19,8 +19,8 @@ profile:
     align: right
     image: wisniewski.jpg
     email:  katrin.wisniewski@uni-leipzig.de
-    #twitter: TorstenZesch
-    #github: zesch
+    # twitter:
+    # github:
     orcid: 0000-0003-4124-2543
     address: >
         Universität Leipzig <br />

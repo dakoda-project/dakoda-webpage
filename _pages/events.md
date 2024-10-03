@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 description: Events im Rahmen des DAKODA-Projekts.
 nav: true
-#nav_order: 2
+nav_order: 2
 display_categories: [Workshops, Vorträge]
 horizontal: false
 ---

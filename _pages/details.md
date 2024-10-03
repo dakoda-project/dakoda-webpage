@@ -4,7 +4,7 @@ title: Details
 permalink: /details/
 description: Nähere Informationen zum DAKODA-Projekt.
 nav: true
-#nav_rank:
+nav_rank: 1
 
 # Ehemals Projekte
 #display_categories: [current projects, past projects]

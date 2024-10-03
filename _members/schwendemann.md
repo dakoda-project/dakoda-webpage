@@ -20,9 +20,9 @@ profile:
     align: right
     position: Wissenschaftlicher Mitarbeiter Team Leipzig
     image: schwendemann.jpg
-    #role: PhD Candidate
+    role: PhD Candidate
     email: matthias.schwendemann@uni-leipzig.de
-    #github: JeaBew
+    # github:
     orcid: 0000-0001-6738-4748
     address: >
         Universität Leipzig <br />

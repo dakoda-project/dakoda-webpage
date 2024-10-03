@@ -20,10 +20,10 @@ profile:
     align: right
     position: Wissenschaftlicher Mitarbeiter Team FernUni Hagen
     image: josef-ruppenhofer-hw.jpg
-    #role: PhD Candidate
+    role: PhD Candidate
     email: josef.ruppenhofer@fernuni-hagen.de
-    #github: JeaBew
-    #orcid: 0000-0002-9091-2892
+    # github:
+    # orcid: 0000-0002-9091-2892
     address: >
         Universitätsstr. 27 – PRG / Gebäude 5 <br />
         Raum B 116 (1. Etage) <br />

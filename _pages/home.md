@@ -1,8 +1,6 @@
 ---
 layout: about
-#layout: page
-title: DAKODA Home
-#permalink: /ueber-dakoda/
+title: DAKODA
 permalink: /
 nav: false
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.

@@ -20,10 +20,10 @@ profile:
     align: right
     position: Wissenschaftliche Mitarbeiterin Team Leipzig
     image: lenort.jpg
-    #role: PhD Candidate
+    role: PhD Candidate
     email: lisa.lenort@uni-leipzig.de
-    #github: JeaBew
-    #orcid: 0000-0002-9091-2892
+    # github:
+    # orcid: 0000-0002-9091-2892
     address: >
         Universität Leipzig <br />
         Herder-Institut <br />

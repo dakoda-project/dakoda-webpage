@@ -19,18 +19,15 @@ profile:
     name: Raphael Engl
     align: right
     position: Wissenschaftliche Hilfskraft Team FernUni Hagen
-    <!-- image: prepens-neu.jpg -->
-    #role: Wiss. Hilfskraft
-    <!-- email: lisa.prepens@fernuni-hagen.de -->
-    <!-- github: lisprep -->
-    #orcid: 0000-0002-9091-2892
+    # image: engl.jpg
+    role: Wiss. Hilfskraft
+    email: raphael.engl@fernuni-hagen.de
+    # github:
+    # orcid:
     address: >
         Universitätsstr. 27 – PRG / Gebäude 5 <br />
         Raum B 118 (1. Etage) <br />
         58097 Hagen
 ---
 
-#### CV
-
 - Wissenschaftliche Hilfskraft an Forschungsprofessur Computerlinguistik in FernUniversität in Hagen (März 2024 bis heute)
-<!-- - B.Sc. in Angewandte Kognitions- und Medienwissenschaft, Universität Duisburg-Essen (März 2018) -->
