@@ -20,6 +20,7 @@ profile:
 
 ## WILLKOMMEN
 
+TEST
 DAKODA ist ein interdisziplinäres Projekt mit dem übergeordneten Ziel, die Datenkompetenzen des wissenschaftlichen DaF/DaZ-Nachwuchses im Bereich Lernerkorpusforschung voranzutreiben. Im Projekt werden sprachtechnologische Ressourcen für erwerbsbezogene Fragestellungen entwickelt und auf Basis einer breiten Datengrundlage erprobt. DAKODA soll somit Möglichkeiten und Grenzen der Anwendung computerlinguistischer Verfahren für Lernersprachenanalysen explorativ ausloten. Dazu kooperiert das [Projektteam](https://dakoda-project.github.io/dakoda-webpage/team/) am Herder-Institut der Universität Leipzig (Leitung: Prof. Dr. Katrin Wisniewski) mit dem Language Technology Lab der FernUniversität in Hagen (Leitung: Prof. Dr.-Ing. Torsten Zesch).
 
 <table>
