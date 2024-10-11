@@ -37,7 +37,7 @@ DAKODA ist ein interdisziplinäres Projekt mit dem übergeordneten Ziel, die Dat
     </tr>
     <tr>
       <th>Förderlinie: </th>
-      <td><a href="https://www.bildung-forschung.digital/digitalezukunft/de/wissen/forschungsdaten/datenkompetenzen-wiss-nachwuchs/datenkompetenz-wiss-nachwuchs_node.html">Förderlinie „Datenkompetenzen des wissenschaftlichen Nachwuchses“</a></td>
+      <td><a href="https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2021/09/2021-09-06-Bekanntmachung-Datenkompetenzen.html">Förderlinie „Datenkompetenzen des wissenschaftlichen Nachwuchses“</a></td>
     </tr>
     <tr>
       <th>Laufzeit: </th>
