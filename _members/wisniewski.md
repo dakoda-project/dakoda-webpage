@@ -8,7 +8,7 @@ title: Prof. Dr. Katrin Wisniewski
 description: Profile of Prof. Dr. Katrin Wisniewski
 lastname: Wisniewski
 publications: 'author^=*Wisniewski'
-years: [2022, 2020, 2017]
+years: [2024,2023,2022, 2020, 2017]
 
 #teaser: >
 #    More information coming soon

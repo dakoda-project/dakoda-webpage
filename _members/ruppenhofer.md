@@ -10,7 +10,7 @@ title: Dr. Josef Ruppenhofer
 description: Profile of Dr. Josef Ruppenhofer
 lastname: Ruppenhofer
 publications: 'author^=*Ruppenhofer'
-years: []
+years: [2024,2023]
 
 #teaser: >
 #    More information coming soon

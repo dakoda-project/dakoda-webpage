@@ -10,7 +10,7 @@ title: Annette Portmann
 description: Profile of Annette Portmann
 lastname: Portmann
 publications: 'author^=*Portmann'
-years: []
+years: [2024,2023]
 
 #teaser: >
 #    More information coming soon
