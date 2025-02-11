@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 5.10.2023
-description: "How to visualize and quantify variability in learner language? Advantages and limitations of CDST-inspired methods"
-importance: 2
+dateDDMMYYYY: 05.10.2023
+dateYYYY-MM-DD: 2023-10-05
+title: "How to visualize and quantify variability in learner language? Advantages and limitations of CDST-inspired methods"
 category: Vorträge
 
 ---

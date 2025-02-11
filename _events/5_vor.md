@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 23.05.2024
-description: "Every Verb in its Right Place? A Roadmap for Operationalizing Developmental Stages in the Acquisition of L2 German"
-importance: 5
+dateDDMMYYYY: 23.05.2024
+dateYYYY-MM-DD: 2024-05-23
+title: "Every Verb in its Right Place? A Roadmap for Operationalizing Developmental Stages in the Acquisition of L2 German"
 category: Vorträge
 
 ---

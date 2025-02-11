@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 05.07.2024
-description: "Automatic CEFR classification of written learner texts using Natural Language Processing"
-importance: 6
+dateDDMMYYYY: 05.07.2024
+dateYYYY-MM-DD: 2024-07-05
+title: "Automatic CEFR classification of written learner texts using Natural Language Processing"
 category: Vorträge
 
 ---

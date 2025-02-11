@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 25.01.2023
-description: "Grundlagen des Fremd- und Zweitspracherwerbs"
-importance: 4
+dateDDMMYYYY: 25.01.2023
+dateYYYY-MM-DD: 2023-01-25
+title: "Grundlagen des Fremd- und Zweitspracherwerbs"
 category: Workshops
 
 ---

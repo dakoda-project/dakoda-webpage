@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 09.04.2024
-description: "Erste Schritte bei der automatischen Lernersprachenanalyse"
-importance: 5
+dateDDMMYYYY: 09.04.2024
+dateYYYY-MM-DD: 2024-04-09
+title: "Erste Schritte bei der automatischen Lernersprachenanalyse"
 category: Workshops
 
 ---

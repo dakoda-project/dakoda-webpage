@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 15.9.2023
-description: "Towards exploring computational linguistic approaches for the analyses of developmental stages for German based on a large database"
-importance: 4
+dateDDMMYYYY: 15.09.2023
+dateYYYY-MM-DD: 2023-09-15
+title: "Towards exploring computational linguistic approaches for the analyses of developmental stages for German based on a large database"
 category: Vorträge
 
 ---

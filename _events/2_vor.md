@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 22.9.2023
-description: "Annotationsverfahren im Projekt DAKODA"
-importance: 3
+dateDDMMYYYY: 22.09.2023
+dateYYYY-MM-DD: 2023-09-22
+title: "Annotationsverfahren im Projekt DAKODA"
 category: Vorträge
 
 ---
@@ -25,7 +25,7 @@ category: Vorträge
       <td>Vortrag "Annotationsverfahren im Projekt DAKODA"</td>
     </tr>
     <tr>
-      <th>Vortragender: </th>
-      <td>Schwendemann, Matthias</td>
+      <th>Vortragende: </th>
+      <td>Portmann, Annette</td>
     </tr>
 </table>

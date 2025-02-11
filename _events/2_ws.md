@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 27.06.2023
-description: "Korpusdaten - Konvertierung und Extraktion"
-importance: 3
+dateDDMMYYYY: 27.06.2023
+dateYYYY-MM-DD: 2023-06-27
+title: "Korpusdaten - Konvertierung und Extraktion"
 category: Workshops
 ---
 

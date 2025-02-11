@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 06.10.2023
-description: "Advances and challenges in automatic learner language annotation for a deepened understanding of variation inside and across developmental stages"
-importance: 1
+dateDDMMYYYY: 06.10.2023
+dateYYYY-MM-DD: 2023-10-06
+title: "Advances and challenges in automatic learner language annotation for a deepened understanding of variation inside and across developmental stages"
 category: Vorträge
 
 ---

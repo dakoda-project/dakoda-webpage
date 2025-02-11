@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 01.12.2023
-description: "Die Niveaus des Gemeinsamen europäischen Referenzrahmens"
-importance: 1
+dateDDMMYYYY: 01.12.2023
+dateYYYY-MM-DD: 2023-12-01
+title: "Die Niveaus des Gemeinsamen europäischen Referenzrahmens"
 category: Workshops
 
 ---
