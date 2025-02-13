@@ -24,7 +24,7 @@ category: Workshops
       <th>Organisator*innen: </th>
       <td>Team Universität Leipzig, Katrin Wisniewski</td>
     </tr>
-      <tr>
+    <tr>
       <th>Anmeldung: </th>
       <td><a href="https://umfrage.uni-leipzig.de/index.php/392792?lang=en">Registierung für den Workshop</a></td>
     </tr>

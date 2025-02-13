@@ -2,7 +2,7 @@
 layout: page
 dateDDMMYYYY: 12.02.2025
 dateYYYY-MM-DD: 2025-02-12
-title: "Kolloquium 'Korpuslinguistik und Phonetik' am Institut für deutsche Sprache und Linguistik"
+title: "Das DAKODA-Projekt: Auf dem Weg zu automatischen Annotationen von Spracherwerbsstufen in Lernersprache."
 category: Vorträge
 ---
 
@@ -21,7 +21,7 @@ category: Vorträge
     </tr>
     <tr>
       <th>Titel: </th>
-      <td>Kolloquium "Korpuslinguistik und Phonetik"</td>
+      <td>Das DAKODA-Projekt: Auf dem Weg zu automatischen Annotationen von Spracherwerbsstufen in Lernersprache.</td>
     </tr>
     <tr>
       <th>Vortragende: </th>

@@ -24,11 +24,7 @@ category: Workshops
       <th>Organisator*innen: </th>
       <td>Team Hagen, Josef Ruppenhofer, Torsten Zesch</td>
     </tr>
-<!--       <tr>
-      <th>Anmeldung: </th>
-      <td><a href="https://umfrage.uni-leipzig.de/index.php/392792?lang=en">Registierung für den Workshop</a></td>
-    </tr>
- --></table>
+</table>
 
 <details>
   <summary><b>Inhalt:</b></summary>

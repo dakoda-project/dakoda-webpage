@@ -79,7 +79,7 @@ Wissenschaftlicher Mitarbeiter am Institut für Deutsche Sprache und Linguistik 
 Professorin für Fachdidaktik in Englisch, Universität Innsbruck
 
 **Detmar Meurers** <br>
-Professor für Computerlinguistik und Leiter der Arbeitsgruppe Theoretische Computerlinguistik an der Universität Tübingen
+Leiter der Arbeitsgruppe Sprache und KI in der Bildung am Leibniz Institut für Wissensmedien (IWM) und Professor für Computerlinguistik, Universität Tübingen
 
 **Elena Volodina** <br>
 Forscherin am Fachbereich Schwedisch, Mehrsprachigkeit, Sprachtechnologie an der Universität Göteborg

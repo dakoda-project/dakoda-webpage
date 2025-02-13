@@ -12,7 +12,7 @@ category: Highlights
       <th>Datum: </th>
       <td>22.09.-24.09.2025</td>
     </tr>
-     <tr>
+    <tr>
       <th>Ort: </th>
       <td>Universität Leipzig</td>
     </tr>
@@ -20,11 +20,11 @@ category: Highlights
       <th>Titel: </th>
       <td>Sommerschule "Aufbereitung und Analyse von Lernerkorpusdaten"</td>
     </tr>
-<!--       <tr>
-      <th>Anmeldung: </th>
-      <td><a href="https://www.philol.uni-leipzig.de/herder-institut/forschung/projekte/laufende-projekte/standard-titel">Informationen und Anmeldung</a></td>
+    <tr>
+      <th>Information und Anmeldung: </th>
+      <td><a href="https://www.philol.uni-leipzig.de/herder-institut/forschung/projekte/laufende-projekte/standard-titel">philol.uni-leipzig.de</a></td>
     </tr>
- --></table>
+</table>
 
 <details>
   <summary><b>Inhalt:</b></summary>
