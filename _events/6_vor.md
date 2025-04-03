@@ -26,6 +26,6 @@ category: Vorträge
     </tr>
     <tr>
       <th>Vortragende: </th>
-      <td>Torsten Zesch</td>
+      <td>Zesch, Torsten</td>
     </tr>
 </table>

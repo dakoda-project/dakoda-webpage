@@ -25,6 +25,6 @@ category: Vorträge
     </tr>
     <tr>
       <th>Vortragende: </th>
-      <td>Marina Schwendemann</td>
+      <td>Schwendemann, Matthias</td>
     </tr>
 </table>

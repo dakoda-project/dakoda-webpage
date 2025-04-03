@@ -25,6 +25,6 @@ category: Vorträge
     </tr>
     <tr>
       <th>Vortragende: </th>
-      <td>Kai Wisniewski</td>
+      <td>Wisniewski, Katrin</td>
     </tr>
 </table>

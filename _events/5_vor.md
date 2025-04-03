@@ -27,6 +27,6 @@ RESOURCES AND EVALUATION" (LREC-COLING 2024)</td>
     </tr>
     <tr>
       <th>Vortragende: </th>
-      <td>Josef Ruppenhofer</td>
+      <td>Ruppenhofer, Josef</td>
     </tr>
 </table>

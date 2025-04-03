@@ -25,6 +25,6 @@ category: Vorträge
     </tr>
     <tr>
       <th>Vortragende: </th>
-      <td>Lenort, L., Portmann, A., Schwendemann, M. & Ruppenhofer, J.</td>
+      <td>Lenort, Lisa / Portmann, Annette / Schwendemann, Matthias / Ruppenhofer, Josef</td>
     </tr>
 </table>

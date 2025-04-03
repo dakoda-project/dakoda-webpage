@@ -25,6 +25,6 @@ category: Vorträge
     </tr>
     <tr>
       <th>Vortragende: </th>
-      <td>Wisniewski, K., Schwendemann, M., Ruppehofer, J.</td>
+      <td>Wisniewski, Katrin / Schwendemann, Matthias / Ruppenhofer, Josef</td>
     </tr>
 </table>

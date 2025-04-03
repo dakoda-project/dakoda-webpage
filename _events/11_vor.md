@@ -25,6 +25,6 @@ category: Vorträge
     </tr>
     <tr>
       <th>Vortragende: </th>
-      <td>Ruppenhofer, J., Zesch, T., Wisniewski, K. & Portmann, A.</td>
+      <td>Ruppenhofer, Josef / Zesch, Torsten / Wisniewski, Katrin / Portmann, Annette</td>
     </tr>
 </table>

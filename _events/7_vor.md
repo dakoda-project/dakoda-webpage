@@ -25,6 +25,6 @@ category: Vorträge
     </tr>
     <tr>
       <th>Vortragende: </th>
-      <td>Kai Wisniewski, Markus Schwendemann, Lukas Lenort & Andreas Portmann</td>
+      <td>Wisniewski, Katrin / Schwendemann, Matthias / Lenort, Lisa / Portmann, Annette</td>
     </tr>
 </table>

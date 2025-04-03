@@ -25,6 +25,6 @@ category: Vorträge
     </tr>
     <tr>
       <th>Vortragende: </th>
-      <td>Schwendemann, M., Wisniewski, K., Zesch, T. & Lenort, L.</td>
+      <td>Schwendemann, Matthias / Wisniewski, Katrin / Zesch, Torsten / Lenort, Lisa</td>
     </tr>
 </table>
