@@ -14,7 +14,7 @@ category: Vorträge
     </tr>
      <tr>
       <th>Ort: </th>
-      <td>Innnsbruck</td>
+      <td>Innnsbruck, Österreich</td>
     </tr>
      <tr>
       <th>Kontext: </th>

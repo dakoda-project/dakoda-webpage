@@ -13,11 +13,11 @@ category: Vorträge
     </tr>
     <tr>
       <th>Ort: </th>
-      <td>Berlin, Humboldt-Universität</td>
+      <td>Berlin, Deutschland</td>
     </tr>
     <tr>
       <th>Kontext: </th>
-      <td>Kolloquium "Korpuslinguistik und Phonetik" am Institut für deutsche Sprache und Linguistik</td>
+      <td>Kolloquium "Korpuslinguistik und Phonetik" am Institut für deutsche Sprache und Linguistik, Humboldt-Universität Berlin</td>
     </tr>
     <tr>
       <th>Titel: </th>

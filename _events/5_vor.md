@@ -14,7 +14,7 @@ category: Vorträge
     </tr>
      <tr>
       <th>Ort: </th>
-      <td>Turin</td>
+      <td>Turin, Italien</td>
     </tr>
      <tr>
       <th>Kontext: </th>

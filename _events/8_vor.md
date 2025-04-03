@@ -13,7 +13,7 @@ category: Vorträge
     </tr>
      <tr>
       <th>Ort: </th>
-      <td>Leipzig</td>
+      <td>Leipzig, Deutschland</td>
     </tr>
      <tr>
       <th>Kontext: </th>

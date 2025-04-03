@@ -14,7 +14,7 @@ category: Vorträge
     </tr>
     <tr>
       <th>Ort: </th>
-      <td>online</td>
+      <td>Online</td>
     </tr>
     <tr>
       <th>Kontext: </th>

@@ -13,7 +13,7 @@ category: Vorträge
     </tr>
     <tr>
       <th>Ort: </th>
-      <td>Dresden</td>
+      <td>Dresden, Deutschland</td>
     </tr>
     <tr>
       <th>Kontext: </th>

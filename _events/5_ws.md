@@ -14,7 +14,7 @@ category: Workshops
     </tr>
      <tr>
       <th>Ort: </th>
-      <td>online</td>
+      <td>Online</td>
     </tr>
     <tr>
       <th>Titel: </th>

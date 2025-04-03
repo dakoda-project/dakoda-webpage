@@ -14,7 +14,7 @@ category: Vorträge
     </tr>
      <tr>
       <th>Ort: </th>
-      <td>Gießen</td>
+      <td>Gießen, Deutschland</td>
     </tr>
     <tr>
       <th>Kontext: </th>
