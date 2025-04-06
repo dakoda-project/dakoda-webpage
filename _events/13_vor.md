@@ -25,6 +25,6 @@ category: Vorträge
     </tr>
     <tr>
       <th>Vortragende: </th>
-      <td>Ruppenhofer, Josef / Schwendemann, Matthias / </td>
+      <td>Ruppenhofer, Josef / Schwendemann, Matthias </td>
     </tr>
 </table>
