@@ -9,6 +9,12 @@ display_categories: [Highlights, Workshops, Vorträge]
 horizontal: true
 ---
 
+<style>
+div.projects .category {
+  color: rgba(0, 0, 0, 0.5);
+}
+</style>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
