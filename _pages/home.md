@@ -65,7 +65,7 @@ DAKODA is an interdisciplinary project with the overarching goal of advancing th
 <div class="container">
   <div class="row">
     <div class="col">
-      <img src="./assets/img/Foerderhinweis_BMBF.jpg" class="img-fluid" alt="Förderhinweis des Bundesministerium für Bildung und Forschung" title="" />
+      <img src="./assets/img/BMFTR.png" class="img-fluid" alt="Förderhinweis des Bundesministerium für Forschung, Technologie und Raumfahrt" title="" />
     </div>
     <div class="col">
       <img src="./assets/img/Foerderhinweis_EU_vertikal.jpg" class="img-fluid" alt="Förderhinweis der Europäischen Union" title="" />
