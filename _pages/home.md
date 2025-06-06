@@ -33,7 +33,7 @@ DAKODA ist ein interdisziplinäres Projekt mit dem übergeordneten Ziel, die Dat
     </tr>
     <tr>
       <th>Fördergeber: </th>
-      <td>BMBF</td>
+      <td>BMFTR</td>
     </tr>
     <tr>
       <th>Förderlinie: </th>
