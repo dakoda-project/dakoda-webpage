@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /tagung/
-title: Proceedings der Tagung "Große Lernerkorpora -- Möglichkeiten und Grenzen"
+title: Tagung
 description: Alle Vorträge und Poster der Tagung "Große Lernerkorpora -- Möglichkeiten und Grenzen" (24.-25.9.2025)
 nav: true
 nav_order: 5
@@ -15,6 +15,6 @@ nav_order: 5
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --file dakoda-tagung %}
 
 </div>
