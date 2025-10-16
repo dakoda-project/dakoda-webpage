@@ -15,6 +15,6 @@ nav_order: 4
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --file dakoda-papers %}
 
 </div>
