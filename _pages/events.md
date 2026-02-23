@@ -13,6 +13,10 @@ horizontal: true
 div.projects .category {
   color: rgba(0, 0, 0, 0.5);
 }
+
+[data-theme="dark"] div.projects .category {
+  color: #ffffff;
+}
 </style>
 
 <!-- pages/projects.md -->
