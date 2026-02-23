@@ -20,7 +20,7 @@ profile:
 
 ## WILLKOMMEN
 
-DAKODA ist ein interdisziplinäres Projekt mit dem übergeordneten Ziel, die Datenkompetenzen des wissenschaftlichen DaF/DaZ-Nachwuchses im Bereich Lernerkorpusforschung voranzutreiben. Im Projekt werden sprachtechnologische Ressourcen für erwerbsbezogene Fragestellungen entwickelt und auf Basis einer breiten Datengrundlage erprobt. DAKODA soll somit Möglichkeiten und Grenzen der Anwendung computerlinguistischer Verfahren für Lernersprachenanalysen explorativ ausloten. Dazu kooperiert das [Projektteam](https://dakoda-project.github.io/dakoda-webpage/team/) am Herder-Institut der Universität Leipzig (Leitung: Prof. Dr. Katrin Wisniewski) mit dem Language Technology Lab der FernUniversität in Hagen (Leitung: Prof. Dr.-Ing. Torsten Zesch).
+Das interdisziplinäres Projekt DAKODA hatte zum übergeordneten Ziel, die Datenkompetenzen des wissenschaftlichen DaF/DaZ-Nachwuchses im Bereich Lernerkorpusforschung voranzutreiben. Im Projekt wurden sprachtechnologische Ressourcen für erwerbsbezogene Fragestellungen entwickelt und auf Basis einer breiten Datengrundlage erprobt. DAKODA sollte somit Möglichkeiten und Grenzen der Anwendung computerlinguistischer Verfahren für Lernersprachenanalysen explorativ ausloten. Dazu kooperierte das [Projektteam](https://dakoda-project.github.io/dakoda-webpage/team/) am Herder-Institut der Universität Leipzig (Leitung: Prof. Dr. Katrin Wisniewski) mit dem Language Technology Lab der FernUniversität in Hagen (Leitung: Prof. Dr.-Ing. Torsten Zesch).
 
 <table>
     <tr>
@@ -54,7 +54,7 @@ DAKODA ist ein interdisziplinäres Projekt mit dem übergeordneten Ziel, die Dat
 
 ## WELCOME
 
-DAKODA is an interdisciplinary project with the overarching goal of advancing the data competencies of young DaF/DaZ academics in the field of learner corpus research. In the project, language technology resources for acquisition-related questions are developed and tested on the basis of a broad data base. DAKODA will thus explore the possibilities and limits of using computational linguistic methods for learner language analyses. To this end, the project team at the Herder Institute of the University of Leipzig (Director: Prof. Dr. Katrin Wisniewski) is cooperating with the Language Technology Lab at the FernUniversität in Hagen (Director: Prof. Dr.-Ing. Torsten Zesch).
+The interdisciplinary Project DAKODA had the overarching goal of advancing the data competencies of young DaF/DaZ academics in the field of learner corpus research. In the project, language technology resources for acquisition-related questions were developed and tested on the basis of a broad data base. DAKODA thus explored the possibilities and limits of using computational linguistic methods for learner language analyses. To this end, the project team at the Herder Institute of the University of Leipzig (Director: Prof. Dr. Katrin Wisniewski) was cooperating with the Language Technology Lab at the FernUniversität in Hagen (Director: Prof. Dr.-Ing. Torsten Zesch).
 
 ***
 
