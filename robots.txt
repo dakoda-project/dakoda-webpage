@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dakoda.org/sitemap.xml
+Sitemap: https://project.dakoda.org/sitemap.xml
